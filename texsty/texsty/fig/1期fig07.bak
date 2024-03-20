@@ -1,0 +1,70 @@
+%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(20.0000,10.9800)(10.0000,-20.0000)%
+% POLYGON 2 0 3 0 Black White  
+% 5 1766 1770 1594 1195 2360 966 2533 1540 1766 1770
+% 
+\special{pn 8}%
+\special{pa 1766 1770}%
+\special{pa 1594 1195}%
+\special{pa 2360 966}%
+\special{pa 2533 1540}%
+\special{pa 1766 1770}%
+\special{pa 1594 1195}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 1000 2000 2916 1425
+% 
+\special{pn 8}%
+\special{pa 1000 2000}%
+\special{pa 2916 1425}%
+\special{fp}%
+% CIRCLE 3 0 3 0 Black White  
+% 4 2140 1658 2351 968 2351 968 1584 1198
+% 
+\special{pn 4}%
+\special{ar 2140 1658 722 722 3.8327823 5.0091557}%
+% CIRCLE 3 0 3 0 Black White  
+% 4 2054 1371 2351 968 2523 1543 2351 968
+% 
+\special{pn 4}%
+\special{ar 2054 1371 501 501 5.3475004 0.3515074}%
+% LINE 2 0 3 0 Black White  
+% 2 1000 2000 3000 2000
+% 
+\special{pn 8}%
+\special{pa 1000 2000}%
+\special{pa 3000 2000}%
+\special{fp}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1000 2000 1500 2000 3200 2000 3000 1400
+% 
+\special{pn 8}%
+\special{ar 1000 2000 500 500 5.9917285 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1550 1860 1550 1960 2 0 0 0
+% $\theta $
+\put(15.5000,-19.6000){\makebox(0,0)[lb]{$\theta $}}%
+% STR 2 0 3 0 Black White  
+% 4 1933 867 1933 967 5 0 1 0
+% $b$
+\put(19.3300,-9.6700){\makebox(0,0){{\colorbox[named]{White}{$b$}}}}%
+% STR 2 0 3 0 Black White  
+% 4 2533 1087 2533 1187 5 0 1 0
+% $a$
+\put(25.3300,-11.8700){\makebox(0,0){{\colorbox[named]{White}{$a$}}}}%
+% DOT 0 0 3 0 Black White  
+% 1 1760 1770
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1760 1770 16 16 0 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1700 1620 1700 1720 5 0 0 0
+% A
+\put(17.0000,-17.2000){\makebox(0,0){A}}%
+% STR 2 0 3 0 Black White  
+% 4 2200 1100 2200 1200 2 0 0 0
+% $m$
+\put(22.0000,-12.0000){\makebox(0,0)[lb]{$m$}}%
+\end{picture}}%

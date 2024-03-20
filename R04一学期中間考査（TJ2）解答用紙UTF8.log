@@ -1,0 +1,1445 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.27)  20 MAR 2024 20:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/yuichifunahashi/tex/R04一学期中間考査（TJ2）解答用紙UTF8.tex
+(/home/yuichifunahashi/tex/R04一学期中間考査（TJ2）解答用紙UTF8.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-23> (/usr/local/texlive/2022/texmf-dist/tex/platex/jsclasses/jsbook.cls
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/jsclasses/jsbook.cls:14: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen138
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen139
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen140
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count190
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
+\tag@help=\toks17
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
+\andhelp@=\toks18
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks19
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks26
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/ascmac/ascmac.sty
+Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/ascmac/tascmac.sty
+Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
+Package tascmac Info: Assuming pdfLaTeX, XeLaTeX or LuaLaTeX on input line 44.
+\scb@x=\box53
+\scscb@x=\box54
+\@bw=\dimen147
+\@nbox=\box55
+\@nbody=\box56
+\@scw=\dimen148
+\ascmac@hoboxa=\box57
+\ascmac@hoboxb=\box58
+\@itemh=\dimen149
+\@iboxpos=\toks28
+\@iboxstr=\box59
+\@bwsp=\box60
+\@@bwsp=\box61
+\@bcal=\count197
+\shaderule=\dimen150
+)) (/usr/local/texlive/2022/texmf-dist/tex/platex/emath/itembbox.sty
+Package: itembbox 2004/08/10 v 0.19
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+)
+\iboxpos@=\toks30
+\sc@itemb@x=\box62
+\sc@itemb@x@=\box63
+\@itemw=\dimen151
+\shaderule=\dimen152
+\dblboxrule=\dimen153
+\dblboxrulein=\dimen154
+\dblboxsep=\dimen155
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty
+Runaway argument?
+2005/10/31 v1.54p ^^[$B=iEy?t3X\newenvironment {ltxequation}{\@beginparpenalty \ETC.
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty:65: Paragraph ended before \@pr@videpackage was complete.
+<to be read again> 
+                   \par 
+l.65 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+\EMc@hizyosuu=\count198
+\EMc@syou=\count199
+\EMc@zyo@amari=\count266
+\GCM=\count267
+\zyo@@c=\count268
+\hizyo@@c=\count269
+\wari@@cnt=\count270
+\wari@@cmax=\count271
+\gyou@@c=\count272
+\hidari@@p=\count273
+\migi@@p=\count274
+\renritu@hidariyohaku=\dimen156
+\@ltxlinelen=\dimen157
+\fileophndl=\read2
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty:2435: Undefined control sequence.
+l.2435 \tailchar
+                \@currdir\pathnm@tmp\kugirisi
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty:2435: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2435 \tailchar\@currdir
+                         \pathnm@tmp\kugirisi
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty:2435: Undefined control sequence.
+l.2435 \tailchar\@currdir\pathnm@tmp
+                                    \kugirisi
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty:2435: Undefined control sequence.
+l.2435 \tailchar\@currdir\pathnm@tmp\kugirisi
+                                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2435--2477
+[]
+ []
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emath.sty:2527: Too many }'s.
+l.2527   }
+          {}%
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathP.sty
+Package: emathP 2004/09/19 v 0.66
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty
+Package: emathPp 2005/11/07 v 0.39
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty
+Package: emathPh 2005/11/03 v 2.46
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count275
+\d@lta=\count276
+\@delta=\dimen158
+\@@delta=\dimen159
+\@gridcnt=\count277
+\@joinkind=\count278
+\@dotgap=\dimen160
+\@ddotgap=\dimen161
+\@x@diff=\count279
+\@y@diff=\count280
+\x@diff=\dimen162
+\y@diff=\dimen163
+\@dotbox=\box64
+\num@segments=\count281
+\num@segmentsi=\count282
+\@datafile=\read3
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/eepic.sty
+Extension to Epic and LaTeX. Version 1.1b - Released Febrary 7, 1988
+\@gphlinewidth=\count283
+\@eepictcnt=\count284
+\@tempdimc=\dimen164
+\maxovaldiam=\dimen165
+\@filltype=\box65
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/eclarith.sty
+eclarith.sty 1.1 --- July 1, 1992
+\ari!A=\dimen166
+\ari!B=\dimen167
+\ari!C=\count285
+\ari!D=\count286
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+\@tempdimd=\dimen170
+LaTeX Info: Redefining \color on input line 203.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:974: Illegal parameter number in definition of \@Heikoukigou.
+<to be read again> 
+                   ^^[
+l.974 ...t$O^^[(B 1,2,3,4 ^^[$B$N$$$:$l$+$G$9!#^^[
+                                                  (B}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+\DHS@seq=\toks31
+\yasen@toks=\toks32
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: You can't use `macro parameter character #' in vertical mode.
+<recently read> ##
+                  
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 1 in font nullfont!
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 2 in font nullfont!
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 3 in font nullfont!
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ##
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no 4 in font nullfont!
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3832: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.3832 ...unitlength)(#3\unitlength,#4\unitlength)
+                                                  \fi
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPh.sty:3834: Too many }'s.
+l.3834 }
+        
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3832--3836
+[][][][] 
+ []
+
+\tenretu@namae=\toks33
+\namae@opt=\toks34
+\@tmpla=\dimen171
+)
+\pl@out=\write3
+\pl@in=\read4
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:241: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   ^^[
+l.241 ...2hHO0O$r5a$a$k$3$H$,=PMh$^$;$s$G$7$?!#^^[
+                                                  (B%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:252: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.252 \def\@@YGurafu(#1)(#2)#3#4
+                                #5{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:252: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.252 \def\@@YGurafu(#1)(#2)#3#4#5
+                                  {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:258: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.258   \ifthenelse{\equal{#4
+                             }\empty}{\edef\YG@lx{\truexmin}}{\edef\YG@lx{#4}}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:258: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.258 ...y}{\edef\YG@lx{\truexmin}}{\edef\YG@lx{#4
+                                                  }}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:259: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.259   \ifthenelse{\equal{#5
+                             }\empty}{\edef\YG@rx{\truexmax}}{\edef\YG@rx{#5}}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:259: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.259 ...y}{\edef\YG@rx{\truexmax}}{\edef\YG@rx{#5
+                                                  }}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:407: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   ^^[
+l.407 ...: Perl ^^[$B$H$NO"7H$,$G$-$F$$$^$;$s!#^^[
+                                                  (B}}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:439: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.439 \def\@funcval[#1]#2#3#4
+                             {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:456: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.456     \trim\funcval@tmp\to#4
+                                \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:474: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.474     \trim\funcval@tmp\to#4
+                                \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:593: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.593 \def\YKinziOresen#1#2#3#4
+                               #5{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:593: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.593 \def\YKinziOresen#1#2#3#4#5
+                                 {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:601: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.601       \ifdim #4
+                      pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:603: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.603         for($x=#2;$x<#3;$x+=#4
+                                    )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:608: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.608         for($x=#2;$x>#3;$x+=#4
+                                    )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:618: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.618     \trim\YKinzi@resen\to#5
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:623: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.623     \ifdim #4
+                    pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:625: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.625       for($x=#2;$x<#3;$x+=#4
+                                  )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:630: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.630       for($x=#2;$x>#3;$x+=#4
+                                  )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:635: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.635     \edef#5
+                 {}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:639: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.639     \trim\YKinzi@resen\to#5
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:646: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.646 \def\YKouten#1#2#3#4
+                          #5#6{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:646: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.646 \def\YKouten#1#2#3#4#5
+                            #6{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:646: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.646 \def\YKouten#1#2#3#4#5#6
+                              {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:657: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.657   \ifthenelse{\equal{#4
+                             }\empty}{\edef\YKouten@xr{\truexmax}}{\edef\YKo...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:657: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.657 ...Kouten@xr{\truexmax}}{\edef\YKouten@xr{#4
+                                                  }}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:682: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.682     \trim\YTen@tmp\to#5
+                             \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:684: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.684     \trim\YTen@tmp\to#6
+                             \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:706: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.706     \trim\YTen@tmp\to#5
+                             \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:708: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.708     \trim\YTen@tmp\to#6
+                             \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:713: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.713 \def\XKinziOresen#1#2#3#4
+                               #5{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:713: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.713 \def\XKinziOresen#1#2#3#4#5
+                                 {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:721: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.721       \ifdim #4
+                      pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:723: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.723           for($x=#2;$x<#3;$x+=#4
+                                      )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:728: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.728           for($x=#2;$x>#3;$x+=#4
+                                      )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:738: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.738     \trim\YKinzi@resen\to#5
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:743: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.743     \ifdim #4
+                    pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:745: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.745         for($x=#2;$x<#3;$x+=#4
+                                    )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:750: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.750         for($x=#2;$x>#3;$x+=#4
+                                    )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:755: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.755     \edef#5
+                 {}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:759: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.759     \trim\YKinzi@resen\to#5
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:764: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.764 \def\BKinziOresen#1#2#3#4
+                               #5#6{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:764: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.764 \def\BKinziOresen#1#2#3#4#5
+                                 #6{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:764: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.764 \def\BKinziOresen#1#2#3#4#5#6
+                                   {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:773: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.773       \ifdim #5
+                      pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:775: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.775         for($x=#3;$x<#4
+                             ;$x+=#5)%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:775: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.775         for($x=#3;$x<#4;$x+=#5
+                                    )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:777: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.777           $x=#4
+                     ;printf FHNDL"(\@percent f,\@percent f)",%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:781: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.781         for($x=#3;$x>#4
+                             ;$x+=#5)%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:781: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.781         for($x=#3;$x>#4;$x+=#5
+                                    )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:783: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.783           $x=#4
+                     ;printf FHNDL"(\@percent f,\@percent f)",%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:792: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.792     \trim\BKinzi@resen\to#6
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:797: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.797     \ifdim #5
+                    pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:799: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.799       for($x=#3;$x<#4
+                           ;$x+=#5)%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:799: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.799       for($x=#3;$x<#4;$x+=#5
+                                  )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:801: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.801         $x=#4
+                   ;printf FHNDL"(\@percent f,\@percent f)",%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:805: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.805       for($x=#3;$x>#4
+                           ;$x+=#5)%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:805: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.805       for($x=#3;$x>#4;$x+=#5
+                                  )%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:807: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.807         $x=#4
+                   ;printf FHNDL"(\@percent f,\@percent f)",%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:811: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.811     \edef#6
+                 {}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:815: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.815     \trim\BKinzi@resen\to#6
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:820: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.820 \def\RKinziOresen#1#2#3#4
+                               #5{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:820: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.820 \def\RKinziOresen#1#2#3#4#5
+                                 {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:828: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.828       \ifdim #4
+                      pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:829: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.829 ...diate\write\pl@out{for($x=#2;$x<#3;$x+=#4
+                                                  ){$r=\perl@siki;%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:834: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.834 ...diate\write\pl@out{for($x=#2;$x>#3;$x+=#4
+                                                  ){$r=\perl@siki;%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:845: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.845     \trim\RKinzi@resen\to#5
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:850: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.850     \ifdim #4
+                    pt>\z@
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:851: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.851 ...diate\write\pl@out{for($x=#2;$x<#3;$x+=#4
+                                                  ){$r=\perl@siki;%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:856: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.856 ...diate\write\pl@out{for($x=#2;$x>#3;$x+=#4
+                                                  ){$r=\perl@siki;%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:862: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.862     \edef#5
+                 {}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:866: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.866     \trim\RKinzi@resen\to#5
+                                 \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1024: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1024 \def\@@XGurafu(#1)(#2)#3#4
+                                 #5{{
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1024: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1024 \def\@@XGurafu(#1)(#2)#3#4#5
+                                   {{
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1025: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1025   \ifthenelse{\equal{#4
+                              }\empty}{\edef\XG@by{\trueymin}}{\edef\XG@by{#...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1025: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1025 ...}{\edef\XG@by{\trueymin}}{\edef\XG@by{#4
+                                                  }}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1026: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1026   \ifthenelse{\equal{#5
+                              }\empty}{\edef\XG@ty{\trueymax}}{\edef\XG@ty{#...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1026: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1026 ...}{\edef\XG@ty{\trueymax}}{\edef\XG@ty{#5
+                                                  }}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1121: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1121 \def\owari@Tanten#1#2#3#4
+                                {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1151: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1151     \trim\YTen@tmp\to#4
+                              \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1176: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1176     \trim\YTen@tmp\to#4
+                              \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1187: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1187 \def\hazime@Tanten#1#2#3#4
+                                 {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1217: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1217     \trim\YTen@tmp\to#4
+                              \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1242: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1242     \trim\YTen@tmp\to#4
+                              \relax
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1255: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1255 \def\BGurafu@@@@@(#1)(#2)#3#4
+                                    #5#6{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1255: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1255 \def\BGurafu@@@@@(#1)(#2)#3#4#5
+                                      #6{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1255: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.1255 \def\BGurafu@@@@@(#1)(#2)#3#4#5#6
+                                        {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1256: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1256   \edef\BGurafu@ts{#5
+                            }%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1257: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.1257   \edef\BGurafu@te{#6
+                            }%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1258: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1258   \hazime@Tanten{#3}{#4
+                              }\BGurafu@ts\hazimeT\xdef\hazimeT{\hazimeT}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1259: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1259   \owari@Tanten{#3}{#4
+                             }\BGurafu@te\owariT\xdef\owariT{\owariT}%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1260: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1260   \@B@Gurafu(#1)(#2){#3}{#4
+                                  }\BGurafu@ts\BGurafu@te
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1267: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1267 \def\@B@Gurafu(#1)(#2)#3#4
+                                 #5#6{{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1267: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1267 \def\@B@Gurafu(#1)(#2)#3#4#5
+                                   #6{{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1267: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.1267 \def\@B@Gurafu(#1)(#2)#3#4#5#6
+                                     {{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1269: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   4
+l.1269   \t@perl{#4
+                   }\y@perl@siki
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1278: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   5
+l.1278           for($x=#5
+                          ;$x<#6;$x+=#1)%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1278: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.1278           for($x=#5;$x<#6
+                                ;$x+=#1)%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1280: Illegal parameter number in definition of \YGurafu@@@@@.
+<to be read again> 
+                   6
+l.1280 ...       \x@perl@siki,\y@perl@siki;};$x=#6
+                                                  ;%
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 5329 strings out of 479489
+ 62441 string characters out of 5874555
+ 404137 words of memory out of 5000000
+ 24026 multiletter control sequences out of 15000+600000
+ 469355 words of font info for 29 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 104i,0n,110p,376b,28s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+/usr/local/texlive/2022/texmf-dist/tex/platex/emath/emathPp.sty:1280:  ==> Fatal error occurred, no output PDF file produced!

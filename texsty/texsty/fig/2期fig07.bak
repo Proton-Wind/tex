@@ -1,0 +1,141 @@
+%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(17.4500,9.7300)(2.5000,-11.9300)%
+% CIRCLE 2 0 3 0 Black White  
+% 4 405 950 405 900 405 900 405 1000
+% 
+\special{pn 8}%
+\special{ar 405 950 50 50 1.5707963 4.7123890}%
+% CIRCLE 2 0 3 1 Black White  
+% 4 405 850 405 800 405 800 405 900
+% 
+\special{pn 8}%
+\special{ar 405 850 50 50 1.5707963 4.7123890}%
+% CIRCLE 2 0 3 2 Black White  
+% 4 405 750 405 700 405 700 405 800
+% 
+\special{pn 8}%
+\special{ar 405 750 50 50 1.5707963 4.7123890}%
+% CIRCLE 2 0 3 3 Black White  
+% 4 405 650 405 600 405 600 405 700
+% 
+\special{pn 8}%
+\special{ar 405 650 50 50 1.5707963 4.7123890}%
+% LINE 1 0 3 0 Black White  
+% 2 1297 770 1097 763
+% 
+\special{pn 13}%
+\special{pa 1297 770}%
+\special{pa 1097 763}%
+\special{fp}%
+% LINE 1 0 3 0 Black White  
+% 2 1295 840 1095 833
+% 
+\special{pn 13}%
+\special{pa 1295 840}%
+\special{pa 1095 833}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 12 395 603 395 403 395 403 995 403 1195 603 1195 763 1195 843 1195 1193 1195 1193 395 1193 395 1193 395 993
+% 
+\special{pn 8}%
+\special{pa 395 603}%
+\special{pa 395 403}%
+\special{fp}%
+\special{pa 395 403}%
+\special{pa 995 403}%
+\special{fp}%
+\special{pa 1195 603}%
+\special{pa 1195 763}%
+\special{fp}%
+\special{pa 1195 843}%
+\special{pa 1195 1193}%
+\special{fp}%
+\special{pa 1195 1193}%
+\special{pa 395 1193}%
+\special{fp}%
+\special{pa 395 1193}%
+\special{pa 395 993}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 995 403 1095 403
+% 
+\special{pn 8}%
+\special{pa 995 403}%
+\special{pa 1095 403}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 1195 603 1195 503
+% 
+\special{pn 8}%
+\special{pa 1195 603}%
+\special{pa 1195 503}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 1195 503 1105 363
+% 
+\special{pn 8}%
+\special{pa 1195 503}%
+\special{pa 1105 363}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1045 263 1045 363 3 0 0 0
+% b
+\put(10.4500,-3.6300){\makebox(0,0)[rb]{b}}%
+% LINE 2 0 3 0 Black White  
+% 4 1295 403 1895 403 1895 403 1895 773
+% 
+\special{pn 8}%
+\special{pa 1295 403}%
+\special{pa 1895 403}%
+\special{fp}%
+\special{pa 1895 403}%
+\special{pa 1895 773}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 4 1895 843 1895 1193 1895 1193 1195 1193
+% 
+\special{pn 8}%
+\special{pa 1895 843}%
+\special{pa 1895 1193}%
+\special{fp}%
+\special{pa 1895 1193}%
+\special{pa 1195 1193}%
+\special{fp}%
+% LINE 1 0 3 0 Black White  
+% 2 1995 770 1795 763
+% 
+\special{pn 13}%
+\special{pa 1995 770}%
+\special{pa 1795 763}%
+\special{fp}%
+% LINE 1 0 3 0 Black White  
+% 2 1955 840 1835 833
+% 
+\special{pn 13}%
+\special{pa 1955 840}%
+\special{pa 1835 833}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1315 250 1315 350 2 0 0 0
+% a
+\put(13.1500,-3.5000){\makebox(0,0)[lb]{a}}%
+% STR 2 0 3 0 Black White  
+% 4 1005 700 1005 800 5 0 0 0
+% C
+\put(10.0500,-8.0000){\makebox(0,0){C}}%
+% STR 2 0 3 0 Black White  
+% 4 1715 700 1715 800 5 0 0 0
+% E
+\put(17.1500,-8.0000){\makebox(0,0){E}}%
+% STR 2 0 3 0 Black White  
+% 4 275 700 275 800 5 0 0 0
+% L
+\put(2.7500,-8.0000){\makebox(0,0){L}}%
+% DOT 0 0 3 0 Black White  
+% 1 1195 1190
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1195 1190 16 16 0 6.2831853}%
+\end{picture}}%

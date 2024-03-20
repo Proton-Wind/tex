@@ -1,0 +1,45 @@
+%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(4.3700,9.7100)(5.3200,-14.1400)%
+% BOX 2 0 3 0 Black White  
+% 2 540 580 613 1390
+% 
+\special{pn 8}%
+\special{pa 540 580}%
+\special{pa 613 580}%
+\special{pa 613 1390}%
+\special{pa 540 1390}%
+\special{pa 540 580}%
+\special{pa 613 580}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 686 661 686 742 2 0 0 0
+% $\otimes ~~2.5\times 10^{-2}${\sf T}
+\put(6.8600,-7.4200){\makebox(0,0)[lb]{$\otimes ~~2.5\times 10^{-2}${\sf T}}}%
+% STR 2 0 3 0 Black White  
+% 4 572 427 572 508 5 0 0 0
+% P
+\put(5.7200,-5.0800){\makebox(0,0){P}}%
+% STR 2 0 3 0 Black White  
+% 4 572 1398 572 1479 5 0 0 0
+% Q
+\put(5.7200,-14.7900){\makebox(0,0){Q}}%
+% VECTOR 1 0 3 0 Black White  
+% 2 645 969 969 969
+% 
+\special{pn 13}%
+\special{pa 645 969}%
+\special{pa 969 969}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 969 969}%
+\special{pa 902 949}%
+\special{pa 916 969}%
+\special{pa 902 989}%
+\special{pa 969 969}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 726 1050 726 1131 2 0 0 0
+% $5.0${\sf m/s}
+\put(7.2600,-11.3100){\makebox(0,0)[lb]{$5.0${\sf m/s}}}%
+\end{picture}}%

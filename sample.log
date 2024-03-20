@@ -1,0 +1,8 @@
+This is TeX, Version 3.141592653 (TeX Live 2024) (preloaded format=tex 2024.3.20)  20 MAR 2024 22:01
+**sample.tex
+(./sample.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [a4j,12pt]{jreport}
+? x
+No pages of output.
