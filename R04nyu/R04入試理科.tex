@@ -1,0 +1,129 @@
+%\documentclass[b5j,10pt]{jsarticle}
+\documentclass[b5j,10pt,dvipdfmx]{jsbook}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{enumerate,multicol,tabularx}
+\usepackage{ascmac,itembbox,emath,emathMw,emathEy,hako,scrpage,ulinej}
+%\usepackage[draft]{graphicx}
+%\usepackage[dvipdfmx]{graphicx}
+%\usepackage[dvipdfmx]{color}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage[dvipdfmx]{color}
+%\usepackage[dvips]{graphicx}
+%\usepackage[dvips]{color}
+\usepackage{picins}
+\pagestyle{empty}
+\setlength{\textwidth}{162mm}
+\setlength{\textheight}{230mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-20.4mm}
+%\setlength{\columnseprule}{0.4pt}
+\def\dvrule{\vbox to15mm{%
+           \cleaders
+              \hbox{\vrule height2.9pt depth-2.3pt \kern-.4pt
+                    \vrule height.6pt}%
+              \vfil}}
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\kaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 5mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\dkai#1#2#3{\dvrule\vbox{\hbox{\vrule width 0mm height 5mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\wkaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 5mm depth 25mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\wwkaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 5mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\zeroh{\hrule height 0mm}
+\def\zerov{\vrule height 0mm}
+
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{問\arabic{enumii}}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\newcounter{daimon}
+\newcounter{shomon}[daimon]
+\newcounter{aiueo}[daimon]
+\newcounter{shoshomon}[shomon]
+\newcommand{\ICHI}{\stepcounter{daimon}\fbox{\bfseries{\sffamily{\arabic{daimon}}}}}
+\newcommand{\ichi}{\stepcounter{shomon}問\arabic{shomon}}
+\newcommand{\michi}{\stepcounter{shoshomon}\maru{\arabic{shoshomon}}}
+\newcommand{\aiu}{\stepcounter{aiueo}{\bfseries{\カタカナ{aiueo}}}}
+
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+\newcolumntype{R}{>{\raggedright\arraybackslash}X}
+\newcolumntype{L}{>{\raggedleft\arraybackslash}X}
+
+\def\dvrule{\vbox to10.5mm{%
+           \cleaders
+              \hbox{\vrule height2.9pt depth-2.3pt \kern-.4pt
+                    \vrule height.6pt}%
+              \vfil}}
+
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\santaku{{\bfseries ア}～{\bfseries ウ}}
+\def\yontaku{{\bfseries ア}～{\bfseries エ}}
+\def\gotaku{{\bfseries ア}～{\bfseries オ}}
+\def\rokutaku{{\bfseries ア}～{\bfseries カ}}
+\def\nanataku{{\bfseries ア}～{\bfseries キ}}
+\def\hachitaku{{\bfseries ア}～{\bfseries ク}}
+\def\kyutaku{{\bfseries ア}～{\bfseries ケ}}
+\def\jyutaku{{\bfseries ア}～{\bfseries コ}}
+\def\sbou#1#2{$_{\maru{\sf{#1}}}$\kern-0.2pt \ulinej{#2}}%
+\def\emaru#1{\kern-1pt\raisebox{-0.5zh}{
+\unitlength 0.1in
+\begin{picture}(  1.2000,  2.0000)(  1.4000, -3.0000)
+\put(2.0000,-2.0000){\makebox(0,0){#1}}%
+\special{pn 8}%
+\special{ar 200 200 60 90  0.0000000 6.2831853}%
+\end{picture}}\kern+2pt%
+}
+\begin{document}
+\AtBeginDvi{\special{papersize=\the\paperwidth,\the\paperheight}}
+\setcounter{page}{0}
+\newpagestyle{custom}{(0mm,0pt)%
+%{\hfill{\bf 奨学生　理科}}{{\bf 奨学生　理科}\hfill}{\hfill}%
+%{\hfill{\bf 平成28年度 一学期中間考査（物理）}}{{\bf 平成28年度　一学期中間考査（物理）}\hfill}{\hfill}%
+(\textwidth,0pt)}%
+{(0mm,0pt)%
+{~\hfill -~\thepage ~- \hfill~}{~\hfill -~\thepage~- \hfill~}{\hfill-\pagemark -\hfill}%
+(0mm,0pt)}
+\hakosyokika
+\pagestyle{empty}
+    \begin{enumerate}
+    \item ~~
+        \begin{mawarikomi}{270pt}{\input{./fig/tsuki_fig2.tex}}
+            月が地球のまわりを公転する際の通り道は，真円ではないため，月の満ち欠けの周期はわずかに変動するが，平均すると，29.5日になる。しかし，月が地球のまわりを１周する，つまり360度公転するのに要する日数は，月の満ち欠けの周期と異なる。右図は，太陽系を地球の北極側から見た模式図である。以下の問いに答えなさい。
+            \begin{enumerate}
+                \item 以下の表から，地球の自転方向と，地球上の明け方の地点の組み合わせとして正しい番号をマークせよ。\hako{1}\\
+                    \begin{tabularx}{250pt}{|C|C|C|}
+                        \hline
+                        {\sf 番号}  &  自転方向    &  明け方の地点 \\ \hline
+                        {\sf 1}    &  {\sf A}     &  {\sf P} \\ \hline
+                        {\sf 2}    &  {\sf A}     &  {\sf Q} \\ \hline
+                        {\sf 3}    &  {\sf B}     &  {\sf P} \\ \hline
+                        {\sf 4}    &  {\sf B}     &  {\sf Q} \\ \hline
+                    \end{tabularx}
+                    \\
+                    \item 以下の表から，日食と月食において，太陽，月の欠け始める方角として正しい番号をマークせよ。\hako{2}\\
+                    \begin{tabularx}{250pt}{|C|C|C|}
+                        \hline
+                        {\sf 番号}  &  日食の太陽    &  月食の月 \\ \hline
+                        {\sf 1}    &  東側     &  東側 \\ \hline
+                        {\sf 2}    &  東側     &  西側 \\ \hline
+                        {\sf 3}    &  西側     &  東側 \\ \hline
+                        {\sf 4}    &  西側     &  西側 \\ \hline
+                    \end{tabularx}
+                    \\            
+                \item 図において，{\sf E}の位置に地球があるときに，太陽と同じ方向にあった月は，地球が公転により{\sf E'}の位置にくると，{\sf M}から{\sf M'}の位置に公転により移動している。太陽の位置{\sf S}は動かないものとして，$\angle {\sf ESE'}=x$〔度〕，$\angle {\sf ME'M'}=y$〔度〕とする。地球が{\sf E}から{\sf E'}の位置に移動する間に，月は地球から見て，どのように移動したように見えるか。次の{\sf 1}～{\sf 6}から正しい番号を１つ選び，記号で答えよ。\hako{3}
+                    \begin{edaenumerate}[{\sf 1.}]
+                        \item $x$〔度〕だけ東側に移動
+                        \item $x$〔度〕だけ西側に移動
+                        \item $y$〔度〕だけ東側に移動
+                        \item $y$〔度〕だけ西側に移動
+                        \item $y-x$〔度〕だけ東側に移動
+                        \item $y-x$〔度〕だけ西側に移動
+                    \end{edaenumerate}
+                \item 地球が{\sf E}から{\sf E'}まで公転する時間を1日としたとき，$y-x$の値を小数第2位を四捨五入して，小数第1位まで求め，\hako{4}～\hako{6}に適切な数字をマークせよ。\\
+                    $y-x$=\hako{4}\hako{5}$.$\hako{6}〔度〕
+                \item 1年を365日と考えると，1日あたりの$x$の値は約1.0度である。$x=1.0$〔度〕として，月の公転周期を小数第2位を四捨五入して小数第1位まで求め，\hako{7}～\hako{9}に適切な数字をマークせよ。\\
+                    月の公転周期$=$\hako{7}\hako{8}$.$\hako{9}〔日〕
+                \item 地球の自転周期を24時間とすると，月の南中時刻は1日で何分進むか，または遅れるか。\hako{10}には，進む場合は＋，遅れる場合は－をマークし，月の南中時刻からのずれの時間を小数第2位を四捨五入して，小数第1位まで求め，\hako{11}～\hako{13}に適切な数字をマークせよ。\\
+                    南中時刻のずれ$=$\hako{10}\hako{11}\hako{12}$.$\hako{13}〔分〕
+                \end{enumerate}
+        \end{mawarikomi}
+    \end{enumerate}
+\end{document}

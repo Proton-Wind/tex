@@ -1,0 +1,559 @@
+%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(50.6500,27.7000)(1.3000,-33.2000)%
+% BOX 2 0 3 0 Black White  
+% 2 3195 1395 5195 1495
+% 
+\special{pn 8}%
+\special{pa 3195 1395}%
+\special{pa 5195 1395}%
+\special{pa 5195 1495}%
+\special{pa 3195 1495}%
+\special{pa 3195 1395}%
+\special{pa 5195 1395}%
+\special{fp}%
+% DOT 0 0 3 0 Black White  
+% 3 3195 1445 3795 1445 4995 1445
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 3195 1445 16 16 0 6.2831853}%
+\special{sh 1}%
+\special{ar 3795 1445 16 16 0 6.2831853}%
+\special{sh 1}%
+\special{ar 4995 1445 16 16 0 6.2831853}%
+% VECTOR 1 0 3 0 Black White  
+% 2 3195 1445 3195 1045
+% 
+\special{pn 13}%
+\special{pa 3195 1445}%
+\special{pa 3195 1045}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3195 1045}%
+\special{pa 3175 1112}%
+\special{pa 3195 1098}%
+\special{pa 3215 1112}%
+\special{pa 3195 1045}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 3795 1445 3795 1645
+% 
+\special{pn 13}%
+\special{pa 3795 1445}%
+\special{pa 3795 1645}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3795 1645}%
+\special{pa 3815 1578}%
+\special{pa 3795 1592}%
+\special{pa 3775 1578}%
+\special{pa 3795 1645}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 4995 1445 4995 845
+% 
+\special{pn 13}%
+\special{pa 4995 1445}%
+\special{pa 4995 845}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 4995 845}%
+\special{pa 4975 912}%
+\special{pa 4995 898}%
+\special{pa 5015 912}%
+\special{pa 4995 845}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 3195 845 3195 945 5 0 0 0
+% 2.0{\sf N}
+\put(31.9500,-9.4500){\makebox(0,0){2.0{\sf N}}}%
+% STR 2 0 3 0 Black White  
+% 4 4995 645 4995 745 5 0 0 0
+% 3.0{\sf N}
+\put(49.9500,-7.4500){\makebox(0,0){3.0{\sf N}}}%
+% STR 2 0 3 0 Black White  
+% 4 3795 1645 3795 1745 5 0 0 0
+% 1.0{\sf N}
+\put(37.9500,-17.4500){\makebox(0,0){1.0{\sf N}}}%
+% LINE 2 1 3 0 Black White  
+% 2 3795 1145 3795 1445
+% 
+\special{pn 8}%
+\special{pa 3795 1145}%
+\special{pa 3795 1445}%
+\special{da 0.070}%
+% VECTOR 3 0 3 0 Black White  
+% 2 3595 1245 3195 1245
+% 
+\special{pn 4}%
+\special{pa 3595 1245}%
+\special{pa 3195 1245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3195 1245}%
+\special{pa 3262 1265}%
+\special{pa 3248 1245}%
+\special{pa 3262 1225}%
+\special{pa 3195 1245}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 4395 1245 4995 1245
+% 
+\special{pn 4}%
+\special{pa 4395 1245}%
+\special{pa 4995 1245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 4995 1245}%
+\special{pa 4928 1225}%
+\special{pa 4942 1245}%
+\special{pa 4928 1265}%
+\special{pa 4995 1245}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 4395 1245 3795 1245
+% 
+\special{pn 4}%
+\special{pa 4395 1245}%
+\special{pa 3795 1245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3795 1245}%
+\special{pa 3862 1265}%
+\special{pa 3848 1245}%
+\special{pa 3862 1225}%
+\special{pa 3795 1245}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 3595 1245 3795 1245
+% 
+\special{pn 4}%
+\special{pa 3595 1245}%
+\special{pa 3795 1245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3795 1245}%
+\special{pa 3728 1225}%
+\special{pa 3742 1245}%
+\special{pa 3728 1265}%
+\special{pa 3795 1245}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 3495 1145 3495 1245 5 0 1 0
+% 3.0{\sf m}
+\put(34.9500,-12.4500){\makebox(0,0){{\colorbox[named]{White}{3.0{\sf m}}}}}%
+% STR 2 0 3 0 Black White  
+% 4 4375 1145 4375 1245 5 0 1 0
+% 6.0{\sf m}
+\put(43.7500,-12.4500){\makebox(0,0){{\colorbox[named]{White}{6.0{\sf m}}}}}%
+% STR 2 0 3 0 Black White  
+% 4 3195 1485 3195 1585 5 0 0 0
+% O
+\put(31.9500,-15.8500){\makebox(0,0){O}}%
+% STR 2 0 3 0 Black White  
+% 4 2940 580 2940 680 2 0 0 0
+% (2)
+\put(29.4000,-6.8000){\makebox(0,0)[lb]{(2)}}%
+% STR 2 0 3 0 Black White  
+% 4 135 1980 135 2080 2 0 0 0
+% (3)
+\put(1.3500,-20.8000){\makebox(0,0)[lb]{(3)}}%
+% BOX 2 0 3 0 Black White  
+% 2 390 2795 2390 2895
+% 
+\special{pn 8}%
+\special{pa 390 2795}%
+\special{pa 2390 2795}%
+\special{pa 2390 2895}%
+\special{pa 390 2895}%
+\special{pa 390 2795}%
+\special{pa 2390 2795}%
+\special{fp}%
+% DOT 0 0 3 0 Black White  
+% 1 390 2845
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 390 2845 16 16 0 6.2831853}%
+% DOT 0 0 3 0 Black White  
+% 1 2190 2845
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 2190 2845 16 16 0 6.2831853}%
+% DOT 0 0 3 0 Black White  
+% 1 1590 2845
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 1590 2845 16 16 0 6.2831853}%
+% VECTOR 1 0 3 0 Black White  
+% 2 390 2845 390 3245
+% 
+\special{pn 13}%
+\special{pa 390 2845}%
+\special{pa 390 3245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 390 3245}%
+\special{pa 410 3178}%
+\special{pa 390 3192}%
+\special{pa 370 3178}%
+\special{pa 390 3245}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 385 3240 385 3340 5 0 0 0
+% 2.0{\sf N}
+\put(3.8500,-33.4000){\makebox(0,0){2.0{\sf N}}}%
+% VECTOR 1 0 3 0 Black White  
+% 2 1590 2845 1590 2445
+% 
+\special{pn 13}%
+\special{pa 1590 2845}%
+\special{pa 1590 2445}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1590 2445}%
+\special{pa 1570 2512}%
+\special{pa 1590 2498}%
+\special{pa 1610 2512}%
+\special{pa 1590 2445}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1585 2240 1585 2340 5 0 0 0
+% 2.0{\sf N}
+\put(15.8500,-23.4000){\makebox(0,0){2.0{\sf N}}}%
+% VECTOR 1 0 3 0 Black White  
+% 2 2190 2845 2190 2245
+% 
+\special{pn 13}%
+\special{pa 2190 2845}%
+\special{pa 2190 2245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2190 2245}%
+\special{pa 2170 2312}%
+\special{pa 2190 2298}%
+\special{pa 2210 2312}%
+\special{pa 2190 2245}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 2190 2045 2190 2145 5 0 0 0
+% 3.0{\sf N}
+\put(21.9000,-21.4500){\makebox(0,0){3.0{\sf N}}}%
+% STR 2 0 3 0 Black White  
+% 4 310 2725 310 2825 5 0 0 0
+% O
+\put(3.1000,-28.2500){\makebox(0,0){O}}%
+% VECTOR 3 0 3 0 Black White  
+% 2 990 3005 1590 3005
+% 
+\special{pn 4}%
+\special{pa 990 3005}%
+\special{pa 1590 3005}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1590 3005}%
+\special{pa 1523 2985}%
+\special{pa 1537 3005}%
+\special{pa 1523 3025}%
+\special{pa 1590 3005}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 990 3005 390 3005
+% 
+\special{pn 4}%
+\special{pa 990 3005}%
+\special{pa 390 3005}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 390 3005}%
+\special{pa 457 3025}%
+\special{pa 443 3005}%
+\special{pa 457 2985}%
+\special{pa 390 3005}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 970 2905 970 3005 5 0 1 0
+% 6.0{\sf m}
+\put(9.7000,-30.0500){\makebox(0,0){{\colorbox[named]{White}{6.0{\sf m}}}}}%
+% LINE 2 1 3 0 Black White  
+% 2 390 2545 390 2845
+% 
+\special{pn 8}%
+\special{pa 390 2545}%
+\special{pa 390 2845}%
+\special{da 0.070}%
+% VECTOR 3 0 3 0 Black White  
+% 2 1990 3005 2190 3005
+% 
+\special{pn 4}%
+\special{pa 1990 3005}%
+\special{pa 2190 3005}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2190 3005}%
+\special{pa 2123 2985}%
+\special{pa 2137 3005}%
+\special{pa 2123 3025}%
+\special{pa 2190 3005}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 1990 3005 1590 3005
+% 
+\special{pn 4}%
+\special{pa 1990 3005}%
+\special{pa 1590 3005}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1590 3005}%
+\special{pa 1657 3025}%
+\special{pa 1643 3005}%
+\special{pa 1657 2985}%
+\special{pa 1590 3005}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1890 2905 1890 3005 5 0 1 0
+% 3.0{\sf m}
+\put(18.9000,-30.0500){\makebox(0,0){{\colorbox[named]{White}{3.0{\sf m}}}}}%
+% LINE 2 1 3 0 Black White  
+% 2 1590 2845 1590 3145
+% 
+\special{pn 8}%
+\special{pa 1590 2845}%
+\special{pa 1590 3145}%
+\special{da 0.070}%
+% LINE 2 1 3 0 Black White  
+% 2 2190 2845 2190 3145
+% 
+\special{pn 8}%
+\special{pa 2190 2845}%
+\special{pa 2190 3145}%
+\special{da 0.070}%
+% BOX 2 0 3 0 Black White  
+% 2 395 1395 2395 1495
+% 
+\special{pn 8}%
+\special{pa 395 1395}%
+\special{pa 2395 1395}%
+\special{pa 2395 1495}%
+\special{pa 395 1495}%
+\special{pa 395 1395}%
+\special{pa 2395 1395}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 395 1445 395 1045
+% 
+\special{pn 13}%
+\special{pa 395 1445}%
+\special{pa 395 1045}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 395 1045}%
+\special{pa 375 1112}%
+\special{pa 395 1098}%
+\special{pa 415 1112}%
+\special{pa 395 1045}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 2195 1445 2195 845
+% 
+\special{pn 13}%
+\special{pa 2195 1445}%
+\special{pa 2195 845}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2195 845}%
+\special{pa 2175 912}%
+\special{pa 2195 898}%
+\special{pa 2215 912}%
+\special{pa 2195 845}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 395 845 395 945 5 0 0 0
+% 2.0{\sf N}
+\put(3.9500,-9.4500){\makebox(0,0){2.0{\sf N}}}%
+% STR 2 0 3 0 Black White  
+% 4 2195 645 2195 745 5 0 0 0
+% 3.0{\sf N}
+\put(21.9500,-7.4500){\makebox(0,0){3.0{\sf N}}}%
+% VECTOR 3 0 3 0 Black White  
+% 2 1595 1245 395 1245
+% 
+\special{pn 4}%
+\special{pa 1595 1245}%
+\special{pa 395 1245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 395 1245}%
+\special{pa 462 1265}%
+\special{pa 448 1245}%
+\special{pa 462 1225}%
+\special{pa 395 1245}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 1595 1245 2195 1245
+% 
+\special{pn 4}%
+\special{pa 1595 1245}%
+\special{pa 2195 1245}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2195 1245}%
+\special{pa 2128 1225}%
+\special{pa 2142 1245}%
+\special{pa 2128 1265}%
+\special{pa 2195 1245}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 395 1485 395 1585 5 0 0 0
+% O
+\put(3.9500,-15.8500){\makebox(0,0){O}}%
+% STR 2 0 3 0 Black White  
+% 4 140 580 140 680 2 0 0 0
+% (1)
+\put(1.4000,-6.8000){\makebox(0,0)[lb]{(1)}}%
+% STR 2 0 3 0 Black White  
+% 4 1270 1140 1270 1240 5 0 1 0
+% 9.0{\sf m}
+\put(12.7000,-12.4000){\makebox(0,0){{\colorbox[named]{White}{9.0{\sf m}}}}}%
+% BOX 2 0 3 0 Black White  
+% 2 3190 2790 5190 2890
+% 
+\special{pn 8}%
+\special{pa 3190 2790}%
+\special{pa 5190 2790}%
+\special{pa 5190 2890}%
+\special{pa 3190 2890}%
+\special{pa 3190 2790}%
+\special{pa 5190 2790}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 2935 1980 2935 2080 2 0 0 0
+% (4)
+\put(29.3500,-20.8000){\makebox(0,0)[lb]{(4)}}%
+% DOT 0 0 3 0 Black White  
+% 2 3195 2840 5195 2840
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 3195 2840 16 16 0 6.2831853}%
+\special{sh 1}%
+\special{ar 5195 2840 16 16 0 6.2831853}%
+% VECTOR 1 0 3 0 Black White  
+% 2 3190 2840 3970 2390
+% 
+\special{pn 13}%
+\special{pa 3190 2840}%
+\special{pa 3970 2390}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3970 2390}%
+\special{pa 3902 2406}%
+\special{pa 3924 2417}%
+\special{pa 3922 2441}%
+\special{pa 3970 2390}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 5190 2840 4360 3320
+% 
+\special{pn 13}%
+\special{pa 5190 2840}%
+\special{pa 4360 3320}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 4360 3320}%
+\special{pa 4428 3304}%
+\special{pa 4406 3293}%
+\special{pa 4408 3269}%
+\special{pa 4360 3320}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 2 3190 2840 5190 2840
+% 
+\special{pn 8}%
+\special{pa 3190 2840}%
+\special{pa 5190 2840}%
+\special{da 0.070}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 3190 2840 3590 2840 3990 2840 3990 2390
+% 
+\special{pn 8}%
+\special{ar 3190 2840 400 400 5.7707958 6.2831853}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 5190 2840 4790 2840 4360 2840 4360 3320
+% 
+\special{pn 8}%
+\special{ar 5190 2840 400 400 2.6172719 3.1415927}%
+% STR 2 0 3 0 Black White  
+% 4 3620 2650 3620 2750 2 0 0 0
+% 30\Deg
+\put(36.2000,-27.5000){\makebox(0,0)[lb]{30\Deg}}%
+% STR 2 0 3 0 Black White  
+% 4 4790 2800 4790 2900 4 0 0 0
+% 30\Deg
+\put(47.9000,-29.0000){\makebox(0,0)[rt]{30\Deg}}%
+% LINE 2 1 3 0 Black White  
+% 2 3190 2840 3190 3200
+% 
+\special{pn 8}%
+\special{pa 3190 2840}%
+\special{pa 3190 3200}%
+\special{da 0.070}%
+% LINE 2 1 3 0 Black White  
+% 2 5190 2840 5190 3200
+% 
+\special{pn 8}%
+\special{pa 5190 2840}%
+\special{pa 5190 3200}%
+\special{da 0.070}%
+% VECTOR 3 0 3 0 Black White  
+% 2 3795 3045 3195 3045
+% 
+\special{pn 4}%
+\special{pa 3795 3045}%
+\special{pa 3195 3045}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 3195 3045}%
+\special{pa 3262 3065}%
+\special{pa 3248 3045}%
+\special{pa 3262 3025}%
+\special{pa 3195 3045}%
+\special{fp}%
+% VECTOR 3 0 3 0 Black White  
+% 2 3795 3045 5195 3045
+% 
+\special{pn 4}%
+\special{pa 3795 3045}%
+\special{pa 5195 3045}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 5195 3045}%
+\special{pa 5128 3025}%
+\special{pa 5142 3045}%
+\special{pa 5128 3065}%
+\special{pa 5195 3045}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 3975 2945 3975 3045 5 0 1 0
+% 9.0{\sf m}
+\put(39.7500,-30.4500){\makebox(0,0){{\colorbox[named]{White}{9.0{\sf m}}}}}%
+% STR 2 0 3 0 Black White  
+% 4 4025 2345 4025 2445 2 0 0 0
+% 4.0{\sf N}
+\put(40.2500,-24.4500){\makebox(0,0)[lb]{4.0{\sf N}}}%
+% STR 2 0 3 0 Black White  
+% 4 4360 3220 4360 3320 4 0 0 0
+% 4.0{\sf N}
+\put(43.6000,-33.2000){\makebox(0,0)[rt]{4.0{\sf N}}}%
+% DOT 0 0 3 0 Black White  
+% 2 400 1440 2200 1440
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 400 1440 16 16 0 6.2831853}%
+\special{sh 1}%
+\special{ar 2200 1440 16 16 0 6.2831853}%
+\end{picture}}%

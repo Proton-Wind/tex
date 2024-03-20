@@ -1,0 +1,452 @@
+%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(14.3900,9.6400)(7.9100,-15.3400)%
+% SPLINE 2 0 3 0 Black White  
+% 6 921 613 956 581 1129 810 1071 1040 1013 810 1045 633
+% 
+\special{pn 8}%
+\special{pa 921 613}%
+\special{pa 944 590}%
+\special{pa 969 575}%
+\special{pa 993 573}%
+\special{pa 1018 582}%
+\special{pa 1042 600}%
+\special{pa 1065 627}%
+\special{pa 1085 661}%
+\special{pa 1103 700}%
+\special{pa 1117 743}%
+\special{pa 1126 789}%
+\special{pa 1131 836}%
+\special{pa 1130 882}%
+\special{pa 1126 925}%
+\special{pa 1118 965}%
+\special{pa 1107 998}%
+\special{pa 1095 1022}%
+\special{pa 1082 1037}%
+\special{pa 1069 1040}%
+\special{pa 1057 1029}%
+\special{pa 1045 1008}%
+\special{pa 1035 979}%
+\special{pa 1026 943}%
+\special{pa 1020 903}%
+\special{pa 1015 861}%
+\special{pa 1013 821}%
+\special{pa 1014 783}%
+\special{pa 1017 749}%
+\special{pa 1023 717}%
+\special{pa 1030 687}%
+\special{pa 1037 658}%
+\special{pa 1045 633}%
+\special{fp}%
+% SPLINE 0 0 3 0 Black White  
+% 8 1547 577 1580 593 1589 605 1603 633 1621 679 1635 726 1644 772 1647 819
+% 
+\special{pn 20}%
+\special{pa 1547 577}%
+\special{pa 1577 590}%
+\special{pa 1595 616}%
+\special{pa 1608 645}%
+\special{pa 1620 675}%
+\special{pa 1629 705}%
+\special{pa 1638 736}%
+\special{pa 1643 768}%
+\special{pa 1646 800}%
+\special{pa 1647 819}%
+\special{fp}%
+% SPLINE 0 0 3 0 Black White  
+% 14 1415 572 1436 577 1458 589 1480 609 1496 630 1512 654 1535 707 1554 772 1561 855 1556 919 1547 962 1530 1009 1519 1032 1505 1039
+% 
+\special{pn 20}%
+\special{pa 1415 572}%
+\special{pa 1446 581}%
+\special{pa 1471 600}%
+\special{pa 1492 624}%
+\special{pa 1510 651}%
+\special{pa 1525 679}%
+\special{pa 1536 709}%
+\special{pa 1546 740}%
+\special{pa 1554 771}%
+\special{pa 1559 803}%
+\special{pa 1561 835}%
+\special{pa 1561 867}%
+\special{pa 1558 898}%
+\special{pa 1554 930}%
+\special{pa 1547 961}%
+\special{pa 1536 991}%
+\special{pa 1525 1022}%
+\special{pa 1505 1039}%
+\special{fp}%
+% SPLINE 0 0 3 0 Black White  
+% 14 1273 572 1294 577 1317 589 1338 609 1354 630 1371 654 1394 707 1412 772 1419 855 1415 919 1405 962 1389 1009 1377 1032 1364 1039
+% 
+\special{pn 20}%
+\special{pa 1273 572}%
+\special{pa 1304 581}%
+\special{pa 1330 600}%
+\special{pa 1350 624}%
+\special{pa 1369 650}%
+\special{pa 1383 679}%
+\special{pa 1395 709}%
+\special{pa 1404 739}%
+\special{pa 1412 770}%
+\special{pa 1416 802}%
+\special{pa 1419 834}%
+\special{pa 1419 866}%
+\special{pa 1418 898}%
+\special{pa 1413 930}%
+\special{pa 1405 961}%
+\special{pa 1395 991}%
+\special{pa 1384 1022}%
+\special{pa 1364 1039}%
+\special{fp}%
+% SPLINE 0 0 3 0 Black White  
+% 14 1127 572 1147 577 1171 589 1192 609 1208 630 1224 654 1247 707 1266 772 1273 855 1268 919 1259 962 1243 1009 1231 1032 1218 1039
+% 
+\special{pn 20}%
+\special{pa 1127 572}%
+\special{pa 1158 581}%
+\special{pa 1184 600}%
+\special{pa 1204 624}%
+\special{pa 1222 651}%
+\special{pa 1236 679}%
+\special{pa 1248 709}%
+\special{pa 1258 740}%
+\special{pa 1266 771}%
+\special{pa 1271 802}%
+\special{pa 1273 834}%
+\special{pa 1273 867}%
+\special{pa 1271 898}%
+\special{pa 1266 930}%
+\special{pa 1259 961}%
+\special{pa 1249 991}%
+\special{pa 1238 1022}%
+\special{pa 1218 1039}%
+\special{fp}%
+% SPLINE 0 0 3 0 Black White  
+% 14 985 572 1006 577 1029 589 1050 609 1066 630 1082 654 1106 707 1125 772 1132 855 1127 919 1118 962 1101 1009 1089 1032 1075 1039
+% 
+\special{pn 20}%
+\special{pa 985 572}%
+\special{pa 1016 581}%
+\special{pa 1042 600}%
+\special{pa 1062 624}%
+\special{pa 1080 651}%
+\special{pa 1095 679}%
+\special{pa 1107 709}%
+\special{pa 1117 739}%
+\special{pa 1125 770}%
+\special{pa 1130 802}%
+\special{pa 1132 834}%
+\special{pa 1132 866}%
+\special{pa 1130 898}%
+\special{pa 1125 930}%
+\special{pa 1118 961}%
+\special{pa 1108 991}%
+\special{pa 1096 1022}%
+\special{pa 1075 1039}%
+\special{fp}%
+% SPLINE 0 0 3 0 Black White  
+% 14 860 570 878 577 895 596 917 630 934 677 950 723 960 769 962 833 960 912 953 958 941 998 931 1018 922 1034 908 1037
+% 
+\special{pn 20}%
+\special{pa 860 570}%
+\special{pa 887 585}%
+\special{pa 906 612}%
+\special{pa 921 640}%
+\special{pa 932 670}%
+\special{pa 942 700}%
+\special{pa 952 731}%
+\special{pa 959 762}%
+\special{pa 962 794}%
+\special{pa 962 858}%
+\special{pa 961 890}%
+\special{pa 959 922}%
+\special{pa 954 953}%
+\special{pa 946 985}%
+\special{pa 933 1013}%
+\special{pa 914 1037}%
+\special{pa 908 1037}%
+\special{fp}%
+% SPLINE 2 0 3 0 Black White  
+% 6 1066 613 1100 581 1272 810 1214 1040 1157 810 1188 633
+% 
+\special{pn 8}%
+\special{pa 1066 613}%
+\special{pa 1089 589}%
+\special{pa 1113 575}%
+\special{pa 1138 573}%
+\special{pa 1162 582}%
+\special{pa 1186 601}%
+\special{pa 1209 628}%
+\special{pa 1229 662}%
+\special{pa 1247 702}%
+\special{pa 1260 745}%
+\special{pa 1270 791}%
+\special{pa 1274 838}%
+\special{pa 1273 884}%
+\special{pa 1268 927}%
+\special{pa 1260 966}%
+\special{pa 1250 999}%
+\special{pa 1238 1023}%
+\special{pa 1225 1037}%
+\special{pa 1212 1039}%
+\special{pa 1199 1029}%
+\special{pa 1188 1007}%
+\special{pa 1178 977}%
+\special{pa 1170 941}%
+\special{pa 1163 901}%
+\special{pa 1159 859}%
+\special{pa 1157 819}%
+\special{pa 1158 781}%
+\special{pa 1161 747}%
+\special{pa 1167 715}%
+\special{pa 1173 685}%
+\special{pa 1181 657}%
+\special{pa 1188 633}%
+\special{fp}%
+% SPLINE 2 0 3 0 Black White  
+% 6 1209 613 1243 581 1415 810 1358 1040 1300 810 1332 633
+% 
+\special{pn 8}%
+\special{pa 1209 613}%
+\special{pa 1232 589}%
+\special{pa 1256 575}%
+\special{pa 1281 573}%
+\special{pa 1305 582}%
+\special{pa 1329 601}%
+\special{pa 1352 628}%
+\special{pa 1372 662}%
+\special{pa 1389 702}%
+\special{pa 1403 745}%
+\special{pa 1413 791}%
+\special{pa 1417 838}%
+\special{pa 1416 884}%
+\special{pa 1412 927}%
+\special{pa 1404 966}%
+\special{pa 1394 999}%
+\special{pa 1382 1023}%
+\special{pa 1369 1037}%
+\special{pa 1356 1039}%
+\special{pa 1343 1029}%
+\special{pa 1332 1007}%
+\special{pa 1322 977}%
+\special{pa 1313 941}%
+\special{pa 1306 901}%
+\special{pa 1302 859}%
+\special{pa 1300 819}%
+\special{pa 1301 781}%
+\special{pa 1304 747}%
+\special{pa 1310 715}%
+\special{pa 1317 685}%
+\special{pa 1325 657}%
+\special{pa 1332 633}%
+\special{fp}%
+% SPLINE 2 0 3 0 Black White  
+% 6 1352 613 1386 581 1558 810 1501 1040 1444 810 1475 633
+% 
+\special{pn 8}%
+\special{pa 1352 613}%
+\special{pa 1375 589}%
+\special{pa 1399 575}%
+\special{pa 1424 573}%
+\special{pa 1448 582}%
+\special{pa 1472 601}%
+\special{pa 1495 628}%
+\special{pa 1515 662}%
+\special{pa 1532 702}%
+\special{pa 1546 745}%
+\special{pa 1556 791}%
+\special{pa 1560 838}%
+\special{pa 1559 884}%
+\special{pa 1555 927}%
+\special{pa 1547 966}%
+\special{pa 1536 999}%
+\special{pa 1524 1023}%
+\special{pa 1512 1037}%
+\special{pa 1499 1039}%
+\special{pa 1486 1029}%
+\special{pa 1475 1007}%
+\special{pa 1465 977}%
+\special{pa 1457 941}%
+\special{pa 1450 901}%
+\special{pa 1446 859}%
+\special{pa 1444 819}%
+\special{pa 1445 781}%
+\special{pa 1448 747}%
+\special{pa 1454 715}%
+\special{pa 1460 685}%
+\special{pa 1468 656}%
+\special{pa 1475 633}%
+\special{fp}%
+% SPLINE 2 0 3 0 Black White  
+% 5 1498 613 1533 581 1647 810 1647 867 1647 926
+% 
+\special{pn 8}%
+\special{pa 1498 613}%
+\special{pa 1522 589}%
+\special{pa 1545 577}%
+\special{pa 1566 582}%
+\special{pa 1586 601}%
+\special{pa 1603 631}%
+\special{pa 1618 668}%
+\special{pa 1631 709}%
+\special{pa 1640 752}%
+\special{pa 1646 792}%
+\special{pa 1648 828}%
+\special{pa 1647 859}%
+\special{pa 1647 926}%
+\special{fp}%
+% SPLINE 2 0 3 0 Black White  
+% 7 791 842 791 785 850 572 964 840 907 1040 850 810 907 639
+% 
+\special{pn 8}%
+\special{pa 791 842}%
+\special{pa 791 777}%
+\special{pa 794 740}%
+\special{pa 800 701}%
+\special{pa 807 664}%
+\special{pa 816 629}%
+\special{pa 827 600}%
+\special{pa 840 580}%
+\special{pa 855 570}%
+\special{pa 870 572}%
+\special{pa 887 585}%
+\special{pa 903 606}%
+\special{pa 919 636}%
+\special{pa 934 672}%
+\special{pa 946 712}%
+\special{pa 956 756}%
+\special{pa 962 803}%
+\special{pa 964 850}%
+\special{pa 962 896}%
+\special{pa 956 939}%
+\special{pa 947 978}%
+\special{pa 936 1008}%
+\special{pa 924 1030}%
+\special{pa 911 1040}%
+\special{pa 898 1036}%
+\special{pa 885 1020}%
+\special{pa 874 993}%
+\special{pa 864 959}%
+\special{pa 856 920}%
+\special{pa 851 879}%
+\special{pa 849 837}%
+\special{pa 851 798}%
+\special{pa 857 763}%
+\special{pa 865 731}%
+\special{pa 876 702}%
+\special{pa 889 674}%
+\special{pa 902 648}%
+\special{pa 907 639}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 791 810 791 1212
+% 
+\special{pn 8}%
+\special{pa 791 810}%
+\special{pa 791 1212}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 2 1647 926 1647 1212
+% 
+\special{pn 8}%
+\special{pa 1647 926}%
+\special{pa 1647 1212}%
+\special{fp}%
+% BOX 2 0 3 0 Black White  
+% 2 1423 1155 1080 1269
+% 
+\special{pn 8}%
+\special{pa 1423 1155}%
+\special{pa 1080 1155}%
+\special{pa 1080 1269}%
+\special{pa 1423 1269}%
+\special{pa 1423 1155}%
+\special{pa 1080 1155}%
+\special{fp}%
+% LINE 2 0 3 0 Black White  
+% 4 793 1212 1080 1212 1423 1212 1647 1212
+% 
+\special{pn 8}%
+\special{pa 793 1212}%
+\special{pa 1080 1212}%
+\special{fp}%
+\special{pa 1423 1212}%
+\special{pa 1647 1212}%
+\special{fp}%
+% DOT 0 0 3 0 Black White  
+% 2 793 1212 1647 1212
+% 
+\special{pn 4}%
+\special{sh 1}%
+\special{ar 793 1212 16 16 0 6.2831853}%
+\special{sh 1}%
+\special{ar 1647 1212 16 16 0 6.2831853}%
+% LINE 2 0 3 0 Black White  
+% 6 2230 694 1886 694 1886 694 1886 981 1886 981 2230 981
+% 
+\special{pn 8}%
+\special{pa 2230 694}%
+\special{pa 1886 694}%
+\special{fp}%
+\special{pa 1886 694}%
+\special{pa 1886 981}%
+\special{fp}%
+\special{pa 1886 981}%
+\special{pa 2230 981}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1998 806 1998 835 5 0 0 0
+% {\sf N}
+\put(19.9800,-8.3500){\makebox(0,0){{\sf N}}}%
+% VECTOR 1 0 3 0 Black White  
+% 2 2158 622 1845 622
+% 
+\special{pn 13}%
+\special{pa 2158 622}%
+\special{pa 1845 622}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1845 622}%
+\special{pa 1912 642}%
+\special{pa 1898 622}%
+\special{pa 1912 602}%
+\special{pa 1845 622}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 1039 1351 1508 1351
+% 
+\special{pn 13}%
+\special{pa 1039 1351}%
+\special{pa 1508 1351}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1508 1351}%
+\special{pa 1441 1331}%
+\special{pa 1455 1351}%
+\special{pa 1441 1371}%
+\special{pa 1508 1351}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 1508 1507 1039 1507
+% 
+\special{pn 13}%
+\special{pa 1508 1507}%
+\special{pa 1039 1507}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1039 1507}%
+\special{pa 1106 1527}%
+\special{pa 1092 1507}%
+\special{pa 1106 1487}%
+\special{pa 1039 1507}%
+\special{fp}%
+% STR 2 0 3 0 Black White  
+% 4 1664 1273 1664 1351 5 0 0 0
+% \maru{1}
+\put(16.6400,-13.5100){\makebox(0,0){\maru{1}}}%
+% STR 2 0 3 0 Black White  
+% 4 1658 1422 1658 1500 5 0 0 0
+% \maru{2}
+\put(16.5800,-15.0000){\makebox(0,0){\maru{2}}}%
+\end{picture}}%
