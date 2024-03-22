@@ -1,0 +1,181 @@
+\documentclass[b5j,9.5pt]{jsbook}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{enumerate}
+\usepackage{ascmac,itembbox,emath,emathP,hako,tabularx}
+\usepackage{emathMw,emathEy,furikana}
+\usepackage{graphicx,ulinej}
+\usepackage{picins,scrpage}
+\pagestyle{empty}
+\setlength{\textwidth}{162mm}
+\setlength{\textheight}{230mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-19.4mm}
+\setlength{\columnseprule}{0.4pt}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\emaru#1{\kern-1pt\raisebox{-0.5zh}{
+\unitlength 0.1in
+\begin{picture}(  1.2000,  2.0000)(  1.4000, -3.0000)
+\put(2.0000,-2.0000){\makebox(0,0){#1}}%
+\special{pn 8}%
+\special{ar 200 200 60 90  0.0000000 6.2831853}%
+\end{picture}}\kern+2pt%
+}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\def\zeroh{\hrule height 0mm}
+\def\zerov{\vrule height 0mm}
+\newcounter{daimon}
+\newcounter{shomon}[daimon]
+\newcounter{aiueo}[daimon]
+\newcounter{shoshomon}[shomon]
+\newcommand{\ICHI}{\stepcounter{daimon}\fbox{\bfseries{\sffamily{\arabic{daimon}}}}}
+\newcommand{\ichi}{\stepcounter{shomon}(\arabic{shomon})}
+\newcommand{\michi}{\stepcounter{shoshomon}\maru{\arabic{shoshomon}}}
+\newcommand{\aiu}{\stepcounter{aiueo}{\bfseries{\カタカナ{aiueo}}}}
+\def\dvrule{\vbox to10.5mm{%
+           \cleaders
+              \hbox{\vrule height2.9pt depth-2.3pt \kern-.4pt
+                    \vrule height.6pt}%
+              \vfil}}
+\def\bunsuushisuu#1#2#3{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\kaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 3mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 1mm depth 2mm \hspace{1mm}#3}\hrule}}
+\def\dkai#1#2#3{\dvrule\vbox{\hbox{\vrule width 0mm height 3mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 1mm depth 2mm \hspace{1mm}#3}\hrule}}
+\def\vsrule#1{\vrule width 0mm height #1 depth 0mm}
+%\def\tanni#1{\kern-4pt〔{\sf #1}〕\kern-4pt}%
+\def\tanni#1{\kern-4pt〔$\mathsf{#1}$〕\kern-4pt}%
+\def\sftanni#1{$\kern 2pt{\mathrm{\sf #1}}$}
+\begin{document}
+\AtBeginDvi{\special{papersize=\the\paperwidth,\the\paperheight}}
+\newpagestyle{custom}{(0mm,0pt)%
+{\hfill}
+ {%
+ \begin{minipage}{16.5cm}
+ {\bf {\large 一学期中間考査　２年物理（科学技術科・情報科学科）}}\hfill T2A,J2A宮野尾，T2BC,J2B舟橋\\
+ \end{minipage}
+}%
+{\hfill}%
+(\textwidth,0pt)}%
+{(0mm,0pt)%
+{\hfill}{\hfill}{\hfill}%
+(0mm,0pt)}
+\pagestyle{custom}
+\hakosyokika
+\hakomozisyu{1}
+~~\\
+\ICHI ~\\%問題1
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{32mm}{\ichi }{\michi \hfill \sftanni{m}~}%1-1
+    \kaibox{32mm}{}{\michi \hfill \sftanni{m}~}%1-2
+    \kaibox{32mm}{\ichi }{ \hfill \sftanni{m/s}~}%2
+    \kaibox{32mm}{\ichi ~向き}{ \hfill ~}%3-1
+    \kaibox{32mm}{~大きさ}{ \hfill \sftanni{m/s^2}~}%3-2
+   \vrule%
+    }\zeroh%
+     \hbox{%
+    \kaibox{32mm}{\ichi }{\michi \hfill \sftanni{s}~}%4-1
+    \kaibox{32mm}{}{\michi \hfill \tanni{m}~}%4-2
+    \kaibox{32mm}{\ichi {$M_\mathrm{P}$}}{ \hfill \sftanni{N\cdot m}~}%5-1
+    \kaibox{32mm}{{$M_\mathrm{Q}$}}{\hfill \sftanni{N\cdot m}~}%5-2
+    \kaibox{32mm}{\ichi }{ \hfill \sftanni{N\cdot m}~}%6
+   \vrule%
+    }%
+  }%
+\vfill
+~~\\
+\ICHI ~\\ %問題2
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~~~~~{\sftanni{s}}~}~}%1
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$\tan{\theta }$}=~~~~~~~~~~~~~~~~~~~~~}~}%2
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~~~~~{\sftanni{s}}~}~}%3
+    \vrule%
+    }%
+  }%
+\vfill
+~~\\
+\ICHI ~~\\ %問題3
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~方向~~~~~~~~~~~~~~,速さ~~~~~~~~~{\sftanni{m/s}}~}~}%1
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~方向~~~~~~~~~~~~~~,速さ~~~~~~~~~{\sftanni{m/s}}~}~}%2
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~{\sftanni{m/s}}~}~}%3
+    \vrule%
+    }%
+  }%
+\vfill
+~~\\
+\ICHI ~~\\ %問題4
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$t_1$}~~~~~~~~~~~~~~~~{\sftanni{s}}~}~}%1
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$H$}~~~~~~~~~~~~~~~~{\sftanni{m}}~}~}%2
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$t_2$}~~~~~~~~~~~~~~~~{\sftanni{s}}~}~}%3
+    \vrule%
+    }\zeroh%
+     \hbox{%
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$\ell $}~~~~~~~~~~~~~~~~{\sftanni{m}}~}~}%4
+   \vrule%
+    }%
+  }%
+\vfill
+~\\
+\ICHI ~~\\ %問題5
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{53.33mm}{\ichi }{\vsrule{8mm}{$v_{x0}$}~\hfill\tanni{m/s}~}%1-1
+    \kaibox{53.33mm}{}{\vsrule{8mm}{$v_{y0}$}~\hfill\tanni{m/s}~}%1-2
+    \kaibox{53.33mm}{}{\vsrule{8mm}{$t$}~\hfill\tanni{s}~}%2
+   \vrule%
+    }\zeroh%
+     \hbox{%
+    \kaibox{80mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$y_1$}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{\tanni{m}}~}~}%3-1
+    \kaibox{80mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$y_2$}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{\tanni{m}}~}~}%3-2
+   \vrule%
+    }\zeroh%
+     \hbox{%
+    \kaibox{80mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~{$\tan{\theta _0}$}~~~~~~~~~~~~~~~~~}~}%4
+   \vrule%
+    }%
+  }%
+\vfill
+~\\
+\ICHI ~~\\ %問題6
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{20mm}{\ichi }{\vsrule{8mm}{~}}%1
+    \kaibox{60mm}{\ichi 水平方向\hfill~}{\vsrule{8mm}{~}}%2-1
+    \kaibox{60mm}{\ichi 鉛直方向\hfill~}{\vsrule{8mm}{~}}%2-2
+    \kaibox{20mm}{\ichi }{\vsrule{8mm}{~}}%1
+   \vrule%
+    }%
+  }%
+\vfill
+~\\
+\ICHI ~~\\ %問題7
+  \vbox{%
+  \hrule%
+   \hbox{%
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~{\sftanni{m}}~}~}%1
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~{\sftanni{m}}~}~}%1
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~{\sftanni{m}}~}~}%1
+    \vrule%
+    }\zeroh%
+     \hbox{%
+    \kaibox{53.33mm}{\ichi 式}{\vsrule{25mm}\hfill \ulinej{~~~~~~~~~~~~~~~~~{\sftanni{N\cdot m}}~}~}%4
+   \vrule%
+    }%
+  }%
+\vfill
+%\vspace{1mm}
+\vfill
+\hfill\underline{組~~~~~~~~~~番号~~~~~~~~~~氏名~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~得点~~~~~~~~~~~~~~~~~~~~~~~~~~~}
+\end{document}

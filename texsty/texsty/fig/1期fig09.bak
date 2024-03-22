@@ -1,0 +1,104 @@
+%WinTpicVersion4.32a
+{\unitlength 0.1in%
+\begin{picture}(24.0000,11.8000)(4.0000,-18.0000)%
+% LINE 2 0 3 0 Black White  
+% 2 400 1800 2800 1800
+% 
+\special{pn 8}%
+\special{pa 400 1800}%
+\special{pa 2800 1800}%
+\special{fp}%
+% LINE 2 1 3 0 Black White  
+% 2 1600 1800 920 620
+% 
+\special{pn 8}%
+\special{pa 1600 1800}%
+\special{pa 920 620}%
+\special{da 0.035}%
+% LINE 2 1 3 0 Black White  
+% 2 1600 1800 2600 800
+% 
+\special{pn 8}%
+\special{pa 1600 1800}%
+\special{pa 2600 800}%
+\special{da 0.035}%
+% CIRCLE 2 0 2 0 Black White  
+% 4 1050 850 1100 850 1100 850 1100 850
+% 
+\special{sh 0}%
+\special{ia 1050 850 50 50 0.0000000 6.2831853}%
+\special{pn 8}%
+\special{ar 1050 850 50 50 0.0000000 6.2831853}%
+% CIRCLE 2 0 2 0 Black White  
+% 4 1600 1750 1650 1750 1650 1750 1650 1750
+% 
+\special{sh 0}%
+\special{ia 1600 1750 50 50 0.0000000 6.2831853}%
+\special{pn 8}%
+\special{ar 1600 1750 50 50 0.0000000 6.2831853}%
+% CIRCLE 2 0 2 0 Black White  
+% 4 2250 1150 2300 1150 2300 1150 2300 1150
+% 
+\special{sh 0}%
+\special{ia 2250 1150 50 50 0.0000000 6.2831853}%
+\special{pn 8}%
+\special{ar 2250 1150 50 50 0.0000000 6.2831853}%
+% VECTOR 1 0 3 0 Black White  
+% 2 1050 850 1380 1420
+% 
+\special{pn 13}%
+\special{pa 1050 850}%
+\special{pa 1380 1420}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 1380 1420}%
+\special{pa 1364 1352}%
+\special{pa 1353 1374}%
+\special{pa 1329 1372}%
+\special{pa 1380 1420}%
+\special{fp}%
+% VECTOR 1 0 3 0 Black White  
+% 2 2250 1150 2580 820
+% 
+\special{pn 13}%
+\special{pa 2250 1150}%
+\special{pa 2580 820}%
+\special{fp}%
+\special{sh 1}%
+\special{pa 2580 820}%
+\special{pa 2519 853}%
+\special{pa 2542 858}%
+\special{pa 2547 881}%
+\special{pa 2580 820}%
+\special{fp}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1600 1800 1400 1800 770 360 770 1800
+% 
+\special{pn 8}%
+\special{ar 1600 1800 200 200 3.1415927 4.1895115}%
+% CIRCLE 2 0 3 0 Black White  
+% 4 1600 1800 1800 1800 2600 1800 2600 800
+% 
+\special{pn 8}%
+\special{ar 1600 1800 200 200 5.4977871 6.2831853}%
+% STR 2 0 3 0 Black White  
+% 4 1230 1620 1230 1720 2 0 0 0
+% 60\Deg
+\put(12.3000,-17.2000){\makebox(0,0)[lb]{60\Deg}}%
+% STR 2 0 3 0 Black White  
+% 4 1830 1670 1830 1770 2 0 0 0
+% 45\Deg
+\put(18.3000,-17.7000){\makebox(0,0)[lb]{45\Deg}}%
+% STR 2 0 3 0 Black White  
+% 4 1320 1070 1320 1170 2 0 0 0
+% $v$
+\put(13.2000,-11.7000){\makebox(0,0)[lb]{$v$}}%
+% STR 2 0 3 0 Black White  
+% 4 2460 1020 2460 1120 2 0 0 0
+% $v'$
+\put(24.6000,-11.2000){\makebox(0,0)[lb]{$v'$}}%
+% STR 2 0 3 0 Black White  
+% 4 1140 700 1140 800 2 0 0 0
+% $m$
+\put(11.4000,-8.0000){\makebox(0,0)[lb]{$m$}}%
+\end{picture}}%

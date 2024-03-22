@@ -1,0 +1,100 @@
+%\documentclass[b5j,10pt]{jsarticle}
+\documentclass[b5j,10pt,dvipdfmx]{jsbook}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{enumerate,multicol,tabularx}
+\usepackage{ascmac,itembbox,emath,emathMw,emathEy,hako,scrpage,ulinej}
+%\usepackage[draft]{graphicx}
+%\usepackage[dvipdfmx]{graphicx}
+%\usepackage[dvipdfmx]{color}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage[dvipdfmx]{color}
+%\usepackage[dvips]{graphicx}
+%\usepackage[dvips]{color}
+\usepackage{picins}
+\pagestyle{empty}
+\setlength{\textwidth}{162mm}
+\setlength{\textheight}{230mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-20.4mm}
+%\setlength{\columnseprule}{0.4pt}
+\def\dvrule{\vbox to15mm{%
+           \cleaders
+              \hbox{\vrule height2.9pt depth-2.3pt \kern-.4pt
+                    \vrule height.6pt}%
+              \vfil}}
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\kaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 5mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\dkai#1#2#3{\dvrule\vbox{\hbox{\vrule width 0mm height 5mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\wkaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 5mm depth 25mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\wwkaibox#1#2#3{\vrule\vbox{\hbox{\vrule width 0mm height 5mm depth 2mm \hspace{1mm}#2\hfill}\hbox to #1{\vrule width 0mm height 3mm depth 4mm \hspace{1mm}#3}\hrule}}
+\def\zeroh{\hrule height 0mm}
+\def\zerov{\vrule height 0mm}
+
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{問\arabic{enumii}}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\newcounter{daimon}
+\newcounter{shomon}[daimon]
+\newcounter{aiueo}[daimon]
+\newcounter{shoshomon}[shomon]
+\newcommand{\ICHI}{\stepcounter{daimon}\fbox{\bfseries{\sffamily{\arabic{daimon}}}}}
+\newcommand{\ichi}{\stepcounter{shomon}問\arabic{shomon}}
+\newcommand{\michi}{\stepcounter{shoshomon}\maru{\arabic{shoshomon}}}
+\newcommand{\aiu}{\stepcounter{aiueo}{\bfseries{\カタカナ{aiueo}}}}
+\def\dvrule{\vbox to10.5mm{%
+           \cleaders
+              \hbox{\vrule height2.9pt depth-2.3pt \kern-.4pt
+                    \vrule height.6pt}%
+              \vfil}}
+
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\santaku{{\bfseries ア}～{\bfseries ウ}}
+\def\yontaku{{\bfseries ア}～{\bfseries エ}}
+\def\gotaku{{\bfseries ア}～{\bfseries オ}}
+\def\rokutaku{{\bfseries ア}～{\bfseries カ}}
+\def\nanataku{{\bfseries ア}～{\bfseries キ}}
+\def\hachitaku{{\bfseries ア}～{\bfseries ク}}
+\def\kyutaku{{\bfseries ア}～{\bfseries ケ}}
+\def\jyutaku{{\bfseries ア}～{\bfseries コ}}
+\def\sbou#1#2{$_{\sf{#1}}$\kern-0.2pt \ulinej{#2}}%
+\def\emaru#1{\kern-1pt\raisebox{-0.5zh}{
+\unitlength 0.1in
+\begin{picture}(  1.2000,  2.0000)(  1.4000, -3.0000)
+\put(2.0000,-2.0000){\makebox(0,0){#1}}%
+\special{pn 8}%
+\special{ar 200 200 60 90  0.0000000 6.2831853}%
+\end{picture}}\kern+2pt%
+}
+\begin{document}
+\AtBeginDvi{\special{papersize=\the\paperwidth,\the\paperheight}}
+\setcounter{page}{0}
+\newpagestyle{custom}{(0mm,0pt)%
+%{\hfill{\bf 奨学生　理科}}{{\bf 奨学生　理科}\hfill}{\hfill}%
+%{\hfill{\bf 平成28年度 一学期中間考査（物理）}}{{\bf 平成28年度　一学期中間考査（物理）}\hfill}{\hfill}%
+(\textwidth,0pt)}%
+{(0mm,0pt)%
+{~\hfill -~\thepage ~- \hfill~}{~\hfill -~\thepage~- \hfill~}{\hfill-\pagemark -\hfill}%
+(0mm,0pt)}
+
+\pagestyle{empty}
+\begin{enumerate}
+\item ~~\\
+      \begin{screen}
+            \begin{tabularx}{\linewidth}{rX}
+                  生徒A & ほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげほげ \\
+                  生徒B & ほげほげ \\
+            \end{tabularx}
+      \end{screen}
+% \input{R03入試物理分野.tex}
+%\newpage
+%\hspace{3cm} \\
+%\input{R02入試化学分野.tex}
+%\newpage
+%\input{R02入試生物分野.tex}
+%\newpage
+%\input{R02入試地学分野.tex}
+%\end{enumerate}
+%\hfill ＜問題はこれで終わりです＞
+\end{enumerate}
+\end{document}

@@ -1,0 +1,599 @@
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.3.20)  21 MAR 2024 09:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/yuichifunahashi/tex/R04一学期中間考査（TJ2）解答用紙UTF8
+(/home/yuichifunahashi/tex/R04一学期中間考査（TJ2）解答用紙UTF8.tex
+pLaTeX2e <2023-02-14>+1, based on
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+(/usr/local/texlive/2022/texmf-dist/tex/platex/jsclasses/jsbook.cls
+Document Class: jsbook 2023/02/23 jsclasses (okumura, texjporg)
+Class jsbook Info: Autodetected engine: pLaTeX on input line 241.
+\jsc@mpt=\dimen156
+\jsc@mmm=\dimen157
+\jsc@smallskipamount=\skip48
+LaTeX Info: Redefining \textmc on input line 516.
+LaTeX Info: Redefining \textgt on input line 518.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 580.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 774.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 774.
+\fullwidth=\dimen158
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 935.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 935.
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\jsc@tocl@width=\dimen159
+\@lnumwidth=\dimen160
+\bibindent=\dimen161
+(/usr/local/texlive/2022/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2019/07/25 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 82.
+LaTeX Info: Redefining \LaTeX on input line 135.
+LaTeX Info: Redefining \LaTeXe on input line 188.
+)
+\heisei=\count196
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen162
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box68
+\strutbox@=\box69
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks19
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks20
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks28
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks29
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/ascmac/ascmac.sty
+Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/ascmac/tascmac.sty
+Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
+\@savetbaselineshift=\dimen171
+\@saveybaselineshift=\dimen172
+\scb@x=\box70
+\scscb@x=\box71
+\@bw=\dimen173
+\@nbox=\box72
+\@nbody=\box73
+\@scw=\dimen174
+\ascmac@hoboxa=\box74
+\ascmac@hoboxb=\box75
+\@itemh=\dimen175
+\@iboxpos=\toks30
+\@iboxstr=\box76
+\@bwsp=\box77
+\@@bwsp=\box78
+\@bcal=\count275
+\shaderule=\dimen176
+)) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/itembbox.sty
+Package: itembbox 2004/08/10 v 0.19
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks31
+)
+\iboxpos@=\toks32
+\sc@itemb@x=\box79
+\sc@itemb@x@=\box80
+\@itemw=\dimen177
+\shaderule=\dimen178
+\dblboxrule=\dimen179
+\dblboxrulein=\dimen180
+\dblboxsep=\dimen181
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emath.sty
+Package: emath 2005/10/31 v1.54p 初等数学マクロパッケージ
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emath2e.sty (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathE.sty
+Package: emathE 2005/09/05 v0.79 拡張enumerate
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathEc.sty
+Package: emathEc 2005/09/05 v0.00
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathC.sty
+Package: emathC 2005/09/03 v0.25
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count276
+\calc@Bcount=\count277
+\calc@Adimen=\dimen182
+\calc@Bdimen=\dimen183
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count278
+\calc@Cskip=\skip59
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tempcnta=\count279
+\templa=\dimen184
+\emath@toks@=\toks33
+\Sett@width=\dimen185
+\EMcalc@A=\dimen186
+)) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/jquote.sty
+Package: jquote 2005/10/31 v0.01
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathK.sty)
+\kizami@ti=\count280
+\syoki@ti=\count281
+\c@Enumi=\count282
+\c@Enumii=\count283
+\c@Enumiii=\count284
+\c@Enumiv=\count285
+\emtokena=\toks34
+))
+\templb=\dimen187
+\templc=\dimen188
+\tempboxa=\box81
+\tempboxb=\box82
+\EMc@hizyosuu=\count286
+\EMc@syou=\count287
+\EMc@zyo@amari=\count288
+\GCM=\count289
+\zyo@@c=\count290
+\hizyo@@c=\count291
+\wari@@cnt=\count292
+\wari@@cmax=\count293
+\gyou@@c=\count294
+\hidari@@p=\count295
+\migi@@p=\count296
+\renritu@hidariyohaku=\dimen189
+\@ltxlinelen=\dimen190
+\fileophndl=\read2
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathP.sty
+Package: emathP 2004/09/19 v 0.66
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathPp.sty
+Package: emathPp 2005/11/07 v 0.39
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathPh.sty
+Package: emathPh 2005/11/03 v 2.46
+ (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count297
+\d@lta=\count298
+\@delta=\dimen191
+\@@delta=\dimen192
+\@gridcnt=\count299
+\@joinkind=\count300
+\@dotgap=\dimen193
+\@ddotgap=\dimen194
+\@x@diff=\count301
+\@y@diff=\count302
+\x@diff=\dimen195
+\y@diff=\dimen196
+\@dotbox=\box83
+\num@segments=\count303
+\num@segmentsi=\count304
+\@datafile=\read3
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/eepic.sty
+Extension to Epic and LaTeX. Version 1.1b - Released Febrary 7, 1988
+\@gphlinewidth=\count305
+\@eepictcnt=\count306
+\@tempdimc=\dimen197
+\maxovaldiam=\dimen198
+\@filltype=\box84
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/eclarith.sty
+eclarith.sty 1.1 --- July 1, 1992
+\ari!A=\dimen199
+\ari!B=\dimen256
+\ari!C=\count307
+\ari!D=\count308
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen257
+\Gin@req@width=\dimen258
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 149.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+\@tempdimd=\dimen259
+LaTeX Info: Redefining \color on input line 203.
+\DHS@seq=\toks35
+\yasen@toks=\toks36
+\tenretu@namae=\toks37
+\namae@opt=\toks38
+\@tmpla=\dimen260
+)
+\pl@out=\write3
+\pl@in=\read4
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathPxy.sty
+Package: emathPxy 2005/06/27 v 0.31
+\xunitlength=\dimen261
+\yunitlength=\dimen262
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathPk.sty
+Package: emathPk 2005/10/10 v 0.94
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathT.sty
+Package: emathT 2005/10/29 v0.42
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen263
+\ar@mcellbox=\box85
+\extrarowheight=\dimen264
+\NC@list=\toks39
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box86
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+)
+\hyouretuhaba=\dimen265
+\emT@w=\dimen266
+\emT@h=\dimen267
+\emT@@h=\dimen268
+\emT@d=\dimen269
+\emT@@d=\dimen270
+\emT@r=\dimen271
+\arrayrulewidthb=\dimen272
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathPb.sty
+Package: emathPb 2005/09/10 v 0.01
+\rectbox@item@box=\box87
+\c@rectboxenum=\count309
+\rectb@x=\box88
+\mekureb@x=\box89
+\kakomiwaku@out=\write4
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathPg.sty
+Package: emathPg 2005/09/07 v 0.00
+)) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/hako.sty
+Package: hako 2005/10/24 v1.30
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read5
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathLb.sty
+Package: emathLb 2004/09/27 v 0.04
+)
+\c@hako@mozisuu=\count310
+\c@hakoban=\count311
+\c@hakobanaiu=\count312
+\c@hakobaniro=\count313
+\c@hakobanAIU=\count314
+\c@hakobanIRO=\count315
+\c@hakobanara=\count316
+\c@hakobanalp=\count317
+\c@hakobanALP=\count318
+\c@hakobanrma=\count319
+\c@hakobanRMA=\count320
+\c@hakobanmar=\count321
+\c@hakobankan=\count322
+\c@xh@koban=\count323
+\c@xh@kobanaiu=\count324
+\c@xh@kobaniro=\count325
+\c@xh@kobanAIU=\count326
+\c@xh@kobanIRO=\count327
+\c@xh@kobanara=\count328
+\c@xh@kobanalp=\count329
+\c@xh@kobanALP=\count330
+\c@xh@kobanrma=\count331
+\c@xh@kobanRMA=\count332
+\c@xh@kobanmar=\count333
+\c@xh@kobankan=\count334
+\@kosuuban=\count335
+\H@kobox=\box90
+\hako@skipa=\skip62
+\h@koraise=\skip63
+\hako@kai@rhndl=\read6
+\hako@kai@hndl=\write5
+\HakoKai@length=\skip64
+\HakoKai@box=\box91
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen273
+\TX@old@table=\dimen274
+\TX@old@col=\dimen275
+\TX@target=\dimen276
+\TX@delta=\dimen277
+\TX@cols=\count336
+\TX@ftn=\toks42
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathMw.sty
+Package: emathMw 2005/09/03 v0.13 回り込み
+\@mawarikomisep=\skip65
+\mawarikomisep=\skip66
+\mawarikomikankaku=\skip67
+\EMWR@boxi=\box92
+\EMWR@boxii=\box93
+\eitemindent=\skip68
+\zu@width=\skip69
+\zuitemwidth=\skip70
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/emathEy.sty
+Package: emathEy 2005/09/05 v0.01 横並び enumerate
+\eda@box=\box94
+\ed@beta@box=\box95
+\c@edamon@suu=\count337
+\edaenum@wdth=\dimen278
+\edaenum@wdth@=\dimen279
+\leftmargin@org@s=\dimen280
+\edaitemindent=\dimen281
+\betaitemindent=\dimen282
+\beta@linewidth=\dimen283
+\eda@linewidth=\dimen284
+\pre@edasep=\dimen285
+\post@edasep=\dimen286
+\preedaenumskip=\dimen287
+\postedaenumskip=\dimen288
+\yokoenum@wd=\dimen289
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/furikana.sty
+Option Style `furikana' (ver1.02) <August 22, 2000> [S. Fujita]
+藤田眞作「入門・縦横文書術」所載
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 80.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 80.
+\furikanaaki=\dimen290
+\TestCnt=\count338
+\TestCNT=\count339
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/ulinej.sty
+\ul@curpos=\count340
+\ul@tmpbox=\box96
+\ul@skipwidth=\dimen291
+\ul@depth=\dimen292
+\ul@height=\dimen293
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/picins.sty Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
+\@BILD=\box97
+\@TEXT=\box98
+\d@breite=\dimen294
+\d@hoehe=\dimen295
+\d@xoff=\dimen296
+\d@yoff=\dimen297
+\d@shad=\dimen298
+\d@dash=\dimen299
+\d@boxl=\dimen300
+\d@pichskip=\dimen301
+\d@tmp=\dimen302
+\d@tmpa=\dimen303
+\d@bskip=\dimen304
+\hsiz@=\dimen305
+\p@getot@l=\dimen306
+\c@breite=\count341
+\c@hoehe=\count342
+\c@xoff=\count343
+\c@yoff=\count344
+\c@pos=\count345
+\c@shad=\count346
+\c@dash=\count347
+\c@boxl=\count348
+\c@zeilen=\count349
+\@changemode=\count350
+\c@piccaption=\count351
+\c@piccaptionpos=\count352
+\c@picpos=\count353
+\c@whole=\count354
+\c@half=\count355
+\c@tmp=\count356
+\c@tmpa=\count357
+\c@tmpb=\count358
+\c@tmpc=\count359
+\c@tmpd=\count360
+\d@leftskip=\skip71
+\ptoti=\dimen307
+\ptotii=\dimen308
+\env@box=\box99
+\d@envdp=\dimen309
+\c@hsize=\count361
+\c@envdp=\count362
+\d@envb=\dimen310
+) (/usr/local/texlive/2022/texmf-dist/tex/platex/mysty/scrpage.sty
+Package: scrpage 2001/06/22 v1.3c KOMA package
+)
+\c@daimon=\count363
+\c@shomon=\count364
+\c@aiueo=\count365
+\c@shoshomon=\count366
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2024-03-14 L3 backend support: dvips
+\l__pdf_internal_box=\box100
+\g__pdf_backend_object_int=\count367
+\l__pdf_backend_content_box=\box101
+\l__pdf_backend_model_box=\box102
+\g__pdf_backend_annotation_int=\count368
+\g__pdf_backend_link_int=\count369
+\g__pdf_backend_link_sf_int=\count370
+)
+
+LaTeX Warning: Unused global option(s):
+    [9.5pt].
+
+(./R04一学期中間考査（TJ2）解答用紙UTF8.aux)
+\openout1 = `R04一学期中間考査（TJ2）解答用紙UTF8.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 67.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 67.
+LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 67.
+LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 67.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 148.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 148.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 148.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 148.
+
+Overfull \hbox (10.75804pt too wide) has occurred while \output is active
+|[]$[]$[] 
+ []
+
+
+Overfull \vbox (20.96712pt too high) has occurred while \output is active []
+
+ [1
+
+]
+Underfull \hbox (badness 10000) detected at line 154
+| | 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 155
+| | 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 156
+| | 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 157
+| | 
+ []
+
+[2] (./R04一学期中間考査（TJ2）解答用紙UTF8.aux)
+ ***********
+pLaTeX2e <2023-02-14>+1, based on
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 8988 strings out of 475996
+ 108237 string characters out of 5786363
+ 1987338 words of memory out of 5000000
+ 31163 multiletter control sequences out of 15000+600000
+ 567345 words of font info for 80 fonts, out of 8000000 for 9000
+ 112 hyphenation exceptions out of 8191
+ 106i,11n,113p,410b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on R04一学期中間考査（TJ2）解答用紙UTF8.dvi (2 pages, 12904 bytes).

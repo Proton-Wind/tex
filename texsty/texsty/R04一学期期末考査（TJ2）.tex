@@ -1,0 +1,150 @@
+%\documentclass[b5j,10pt]{jsarticle}
+\documentclass[b5j,9.5pt]{jsbook}
+\usepackage{okumacro}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{enumerate,multicol,}
+\usepackage{ascmac,itembbox,emath,hako,scrpage,ulinej,emathP,emathMw,emathEy}
+%\usepackage[draft]{graphicx}
+\usepackage{graphicx}
+\usepackage{picins}
+\pagestyle{empty}
+\setlength{\textwidth}{162mm}
+\setlength{\textheight}{230mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-17.4mm}
+%\setlength{\columnseprule}{0.4pt}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\santaku{{\bfseries ア}～{\bfseries ウ}}
+\def\yontaku{{\bfseries ア}～{\bfseries エ}}
+\def\gotaku{{\bfseries ア}～{\bfseries オ}}
+\def\rokutaku{{\bfseries ア}～{\bfseries カ}}
+\def\nanataku{{\bfseries ア}～{\bfseries キ}}
+\def\sbou#1#2{$_{\sf{#1}}$\kern-0.2pt \ulinej{#2}}%
+\def\tanni#1{$〔\mathrm{\sf #1}〕\kern -2pt$}%
+\def\sftanni#1{$\kern 2pt{\mathrm{\sf #1}}$}
+\begin{document}
+\AtBeginDvi{\special{papersize=\the\paperwidth,\the\paperheight}}
+%\setcounter{page}{1}
+\newpagestyle{custom}{(0mm,0pt)%
+{\hfill}
+ {%
+ \begin{minipage}{16.5cm}
+ {\bf {\large 一学期期末考査　物理（科学技術科・情報科）}}\hfill T2A,J2A宮野尾，T2BC,J2B舟橋　R4.6.29(水)1限\\
+ \end{minipage}
+}%
+{\hfill}%
+(\textwidth,0pt)}%
+{(0mm,0pt)%
+{\hfill}{\hfill}{\hfill}%
+(0mm,0pt)}
+\pagestyle{custom}
+\begin{enumerate}
+\item 以下の問いに答えよ。
+	\begin{enumerate}
+		\item ~~
+			\begin{mawarikomi}(10pt,0pt){120pt}{\input{./fig/1期fig01.tex}}
+				右図のように長さ0.80{\sf m}の軽い棒の両端に，質量2.0{\sf kg}の小球Aと質量3.0{\sf kg}の小球Bを固定した。小球Aから重心までの距離は何{\sf m}か。ただし，小球の大きさは無視する。	\\
+			\end{mawarikomi}
+			\item ~~
+			\begin{mawarikomi}(10pt,0pt){120pt}{\input{./fig/1期fig02.tex}}
+				右図のように小球A，B，C（質量はそれぞれ，2.0{\sf kg}，3.0{\sf kg}，1.0{\sf kg}）を軽い棒で接続する。AB間は0.40{\sf m}，AC間は0.60{\sf m}である。小球Aから重心までの距離は何{\sf m}か。ただし，小球の大きさは無視する。\\	
+			\end{mawarikomi}
+		\item 質量3.0{\sf kg}の物体が，東向きに2.0{\sf m/s}の速さで進んでいる。この物体の運動量の大きさと向きを求めよ。
+		\item 質量2.0{\sf kg}，速度4.0{\sf m/s}の台車に速度と同じ向きに5.0{\sf N}の力を0.20{\sf s}間加えると，速度は$v'$\tanni{m/s}となった。$v'$を求めよ。
+		\item 質量4.0{\sf kg}，速さ2.0{\sf m/s}の台車Aが，静止している1.0{\sf kg}の台車Bに衝突して一体となった。衝突後のA，Bの速さ$v'$\tanni{m/s}は何か。
+		\item ボールが速さ20m/sで壁に垂直に当たり，速さ12{\sf m/s}で跳ね返った。ボールと壁との間の反発係数$e$を求めよ。
+		\item 水平な机の面より60cmの高さのところから，小球を自由落下させた。机の面と小球との間の反発係数を0.50とするとき，小球は衝突後何{\sf cm}の高さまで跳ね上がるか。
+		\item 45\Deg は何{\sf rad}か。円周率$\pi $を用いて分数で答えよ。
+		\item 半径4.0{\sf m}の円周上を等速円運動する物体が，2.0{\sf s}間に，90\Deg 回転した。物体の角速度$\omega $\tanni{rad/s}，速さ$v$\tanni{m/s}，周期$T$\tanni{s}，回転数$n$\tanni{Hz}，加速度の大きさ$a$\tanni{m/s^2}をそれぞれ求めよ。必要ならば，解答には円周率$\pi $を用いてよい。
+	\end{enumerate}
+	\vfill
+\item 次の(1)，(2)のような厚さ，密度が一様な板がある。(1)は左端を原点として，重心の$x$座標を，(2)は，左下端を原点として，重心の$x$座標，$y$座標をそれぞれ求めよ。
+		\begin{edaenumerate}
+			\item ~~\\
+				\input{./fig/1期fig03.tex}
+			\item ~~\\
+				\input{./fig/1期fig04.tex}
+		\end{edaenumerate}
+\vfill
+\newpage
+\item ~~
+		\begin{mawarikomi}{160pt}{\input{./fig/1期fig07.tex}}
+		右図のように，縦$a$\tanni{m}，横$b$\tanni{m}で質量$m$\tanni{kg}の一様な物質でできている直方体の物体を，水平面と$\theta $の角をなすあらい斜面上に静止させる。物体と斜面との間の静止摩擦係数を$\mu $，重力加速度の大きさを$g$\tanni{m/s^2}とする。
+			\begin{enumerate}
+			\item 図の点Aから物体にはたらく垂直抗力の作用線までの距離$x$を求めよ。
+			\item 斜面の角$\theta $をしだいに大きくしていくと，物体はすべることなく傾き始めた。このときの$\theta$を$\theta _0$とするとき，$\tan{\theta _0}$はいくらか。
+			\item (2)が起きるために，静止摩擦係数$\mu $は$\mu_0$より大きくなければならない。$\mu_0 $を，$a$，$b$を用いて表せ。
+			\end{enumerate}
+		\end{mawarikomi}
+\vfill
+%\item ~~
+%		\begin{mawarikomi}{160pt}{\input{./fig/1期fig08.tex}}
+%			質量$m$\tanni{kg}の頭部Aと質量$M$\tanni{kg}の尾部Bからなるロケットが，速度$v$\tanni{m/s}で進んでいるとき，頭部Aを尾部Bに対する相対的な速さ$u$\tanni{m/s}で一瞬のうちに分離した。分離前のロケットの進行方向を正の向きとして以下の問いに答えよ。
+%			\begin{enumerate}
+%				\item 分離後の頭部Aの地面に対する速度を$v_\mathrm{A}$，尾部Ｂの地面に対する速度を$v_\mathrm{B}$として，$v_\mathrm{A}$，$v_\mathrm{B}$，$u$の関係を示せ。
+%				\item 頭部Ａの地面に対する速度$v_\mathrm{A}$\tanni{m/s}を求めよ。
+%			\end{enumerate}
+%		\end{mawarikomi}
+%\vfill
+\item ~~
+		\begin{mawarikomi}(20pt,0pt){160pt}{\input{./fig/1期fig05.tex}}
+		右図のように，$x$軸上を正の方向に3.0{\sf m/s}で進む質量0.50{\sf kg}の小球Aが，$x$軸上で静止している質量1.5{\sf kg}の小球Bに衝突した。小球Aは$x$軸となす角が60\Deg の方向へ3.0{\sf m/s}で進んだ。以下の問いに答えよ。ただし，向きは$x$軸となす角で表し，反時計回りを正とし，$-180\Deg $から$180\Deg $の間の値で答えよ。
+			\begin{enumerate}
+				\item 小球Aが小球Bから受けた力積の大きさと向きを答えよ。
+				\item 小球Bが小球Aから受けた力積の大きさと向きを答えよ。
+				\item 衝突後の小球Bの速さを求めよ。
+			\end{enumerate}
+		\end{mawarikomi}
+\vfill
+\item ~~
+		\begin{mawarikomi}(10pt,0pt){180pt}{\input{./fig/1期fig09.tex}}
+		水平でなめらかな床面に対して，60\Deg をなす角で質量$m$の小球が速さ$v$で衝突したところ，床面に対して45\Deg をなす角で跳ね返った。以下の問いに答えよ。ただし，$\sqrt{　} $はそのままでよい。
+			\begin{enumerate}
+				\item 小球と床面との反発係数$e$を求めよ。
+				\item 跳ね返った後の小球の速さ$v'$を$v$を用いて表せ。
+				\item 小球が床面から受けた力積の大きさを$m$，$v$を用いて表せ。
+				\item 小球の床面との衝突における力学的エネルギーの変化$\varDelta E$を$m$，$v$を用いて表せ。
+			\end{enumerate}
+		\end{mawarikomi}
+\vfill
+\newpage
+\item ~~
+		\begin{mawarikomi}(20pt,0pt){160pt}{\input{./fig/1期fig06.tex}}
+		一直線上を，質量1.0{\sf kg}，8.0{\sf m/s}の速さで右向きに進む小球Aと，
+		同一直線上を，質量3.0{\sf kg}，2.0{\sf m/s}の速さで左向きに進む小球Bとが衝突する。
+		小球Aと小球Bとの間の反発係数が以下の(1)，(2)場合，衝突後の小球Aの向きと，速さ$v_\mathrm{A}$\tanni{m/s}を答えよ。
+			\begin{enumerate}
+				\item $e=0$（完全非弾性衝突）のとき。
+				\item $e=0.40$のとき。
+			\end{enumerate}
+		\end{mawarikomi}
+\vfill
+\item ~~
+		\begin{mawarikomi}(10pt,0pt){200pt}{\input{./fig/1期fig10.tex}}
+		右図のように，なめらかな水平面の$x$軸上を，質量4.0{\sf kg}の小物体が速さ$2.0${\sf m/s}で$x$軸の正の向きに進んできて，原点において3.0{\sf kg}の物体Aと1.0{\sf kg}の物体Bに瞬間的に分裂した。物体Aは$x$軸となす角30\Deg の向きに速さ$v_1$\tanni{m/s}，物体Bは$x$軸となす角60\Deg の向きに速さ$v_2$\tanni{m/s}に進んだ。以下の問いに答えよ。
+			\begin{enumerate}
+				\item $x$方向，$y$方向について，運動量保存則の式を立てよ。ただし，sin，cosはそのままでよい。
+				\item $v_2$\tanni{m/s}を求めよ。
+				\item 物体Aが物体Bから受けた力積の大きさと向きを答えよ。ただし，向きは$x$軸となす角で表し，反時計回りを正とし，$-180\Deg $から$180\Deg $の間の値で答えよ。$\sqrt{　}$はそのままでよい。
+			\end{enumerate}
+		\end{mawarikomi}
+\vfill
+\item ~~
+		\begin{mawarikomi}(10pt,0pt){160pt}{\input{./fig/1期fig11.tex}}
+		右図のように，曲面と水平面からなる質量$M$の台Bが，なめらかな床の上に置かれている。ここで，台Bの水平面から高さ$h$の曲面上から，質量$m$の小球Aを静かにすべらせた。この後，小球Aが台Bの水平面上を動いているときの，床に対する小球Aと台の速さをそれぞれ$v$，$V$とする。小球Aが台Bとの間に摩擦はなく，運動の前後で力学的エネルギーが保存されているとしてよい。また，重力加速度の大きさを$g$とする。以下の問いに答えよ。
+			\begin{enumerate}
+				\item 小球Aと台Bについて，運動量保存則の式を立てよ。
+				\item 小球Aと台Bについて，力学的エネルギー保存則の式を立てよ。
+				\item $v$を，$m$，$M$，$g$，$h$を用いて表せ。
+			\end{enumerate}
+		\end{mawarikomi}
+\end{enumerate}
+\vfill
+\newpage
+〔計算用紙〕
+\vfill
+\end{document}

@@ -1,0 +1,52 @@
+%\documentclass[b5j,10pt,dvipdfmx]{jsarticle}
+\documentclass[b5j,9.5pt]{jsbook}
+\usepackage{okumacro}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{enumerate,multicol,}
+\usepackage{ascmac,itembbox,emath,hako,scrpage,ulinej,emathP,emathMw,emathEy}
+%\usepackage[draft]{graphicx}
+\usepackage{graphicx}
+\usepackage{picins}
+\pagestyle{empty}
+\setlength{\textwidth}{162mm}
+\setlength{\textheight}{230mm}
+\setlength{\oddsidemargin}{-15.4mm}
+\setlength{\evensidemargin}{-15.4mm}
+\setlength{\topmargin}{-17.4mm}
+%\setlength{\columnseprule}{0.4pt}
+\renewcommand\labelenumi{\fbox{\bfseries{\sffamily{\theenumi}}}}
+\renewcommand{\labelenumii}{(\arabic{enumii})}
+\renewcommand{\labelenumiii}{\bfseries{\カタカナ{enumiii}.}}
+\def\bunsuushisuu#1#2{\raisebox{0.7zh}{$#1 \over #2$}}
+\def\santaku{{\bfseries ア}～{\bfseries ウ}}
+\def\yontaku{{\bfseries ア}～{\bfseries エ}}
+\def\gotaku{{\bfseries ア}～{\bfseries オ}}
+\def\rokutaku{{\bfseries ア}～{\bfseries カ}}
+\def\nanataku{{\bfseries ア}～{\bfseries キ}}
+\def\sbou#1#2{$_{\sf{#1}}$\kern-0.2pt \ulinej{#2}}%
+\def\tanni#1{$〔\mathrm{\sf #1}〕\kern -2pt$}%
+\def\sftanni#1{$\kern 2pt{\mathrm{\sf #1}}$}
+\begin{document}
+\AtBeginDvi{\special{papersize=\the\paperwidth,\the\paperheight}}
+%\setcounter{page}{1}
+\newpagestyle{custom}{(0mm,0pt)%
+{\hfill}
+ {%
+ \begin{minipage}{16.5cm}
+ {\bf {\large 一学期中間考査　物理（科学技術科・情報科）}}\hfill T2A,J2A宮野尾，T2BC,J2B舟橋　R04.5.17(火)1限\\
+ \end{minipage}
+}%
+{\hfill}%
+(\textwidth,0pt)}%
+{(0mm,0pt)%
+{\hfill}{\hfill}{\hfill}%
+(0mm,0pt)}
+\pagestyle{custom}
+\begin{enumerate}
+\item 以下の問いに答えよ。必要があれば，$\sqrt{2}=1.41$，$\sqrt{3}=1.73$を用いること。
+\vfill
+\end{enumerate}
+\newpage
+〔計算用紙〕
+\vfill
+\end{document}
