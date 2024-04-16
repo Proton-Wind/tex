@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.3.20)  21 MAR 2024 09:08
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.euc) (TeX Live 2024) (preloaded format=platex 2024.3.20)  16 APR 2024 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,7 +495,7 @@ File: l3backend-dvips.def 2024-03-14 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [9.5pt].
 
-(./R04一学期中間考査（TJ2）解答用紙UTF8.aux)
+No file R04一学期中間考査（TJ2）解答用紙UTF8.aux.
 \openout1 = `R04一学期中間考査（TJ2）解答用紙UTF8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -535,7 +535,7 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 6.72699pt on input line 71.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
@@ -588,10 +588,10 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8988 strings out of 475996
- 108237 string characters out of 5786363
+ 8985 strings out of 475996
+ 108102 string characters out of 5786363
  1987338 words of memory out of 5000000
- 31163 multiletter control sequences out of 15000+600000
+ 31162 multiletter control sequences out of 15000+600000
  567345 words of font info for 80 fonts, out of 8000000 for 9000
  112 hyphenation exceptions out of 8191
  106i,11n,113p,410b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
